@@ -1,4 +1,37 @@
-*** START OF THE PROJECT GUTENBERG EBOOK 54150 ***
+Project Gutenberg's The Medieval Latin Hymn, by Ruth Ellis Messenger
+
+This eBook is for the use of anyone anywhere in the United States and most
+other parts of the world at no cost and with almost no restrictions
+whatsoever.  You may copy it, give it away or re-use it under the terms of
+the Project Gutenberg License included with this eBook or online at
+www.gutenberg.org.  If you are not located in the United States, you'll have
+to check the laws of the country where you are located before using this ebook.
+
+Title: The Medieval Latin Hymn
+
+Author: Ruth Ellis Messenger
+
+Release Date: February 10, 2017 [EBook #54150]
+
+Language: English
+
+Character set encoding: ISO-8859-1
+
+*** START OF THIS PROJECT GUTENBERG EBOOK THE MEDIEVAL LATIN HYMN ***
+
+
+
+
+Produced by Stephen Hutcheson, Dave Morgan and the Online
+Distributed Proofreading Team at http://www.pgdp.net
+
+
+
+
+
+
+
+
 
                         The Medieval Latin Hymn
 
@@ -13,7 +46,7 @@
 
 
                              CAPITAL PRESS
-                          1731—14th St., N. W.
+                         1731--14th St., N. W.
                            WASHINGTON, D. C.
 
 
@@ -77,7 +110,7 @@ the medieval worshiper himself who has revealed in its entirety each
 successive phase of a hymnological history not yet ended.
 
 For information about the Christian hymn as it existed prior to the
-medieval era, the author’s _Christian Hymns of the First Three
+medieval era, the author's _Christian Hymns of the First Three
 Centuries, Paper IX_, a publication of The Hymn Society of America, may
 be consulted. This account of primitive Christian hymnody, although
 pre-medieval, serves as an introduction to the subject matter of the
@@ -120,7 +153,7 @@ The first mention of Christian Latin hymns by a known author occurs in
 the writings of St. Jerome who states that Hilary, Bishop of Poitiers
 (c. 310-366), a noted author of commentaries and theological works,
 wrote a _Liber Hymnorum_.[1] This collection has never been recovered in
-its entirety. Hilary’s priority as a hymn writer is attested by Isidore
+its entirety. Hilary's priority as a hymn writer is attested by Isidore
 of Seville (d. 636) who says:
 
   Hilary, however, Bishop of Poitiers in Gaul, a man of unusual
@@ -134,18 +167,18 @@ familiar with the use of hymns in the oriental church to promote the
 Arian heresy. Hilary wrested a sword, so to speak, from his adversaries
 and carried to the west the hymn, now a weapon of the orthodox. His
 authentic extant hymns, three in number, must have been a part of the
-_Liber Hymnorum_. _Ante saecula qui manens_, “O Thou who dost exist
-before time,” is a hymn of seventy verses in honor of the Trinity;
-_Fefellit saevam verbum factum te, caro_, “The Incarnate Word hath
-deceived thee (Death)” is an Easter hymn; and _Adae carnis gloriosae_,
-“In the person of the Heavenly Adam” is a hymn on the theme of the
+_Liber Hymnorum_. _Ante saecula qui manens_, "O Thou who dost exist
+before time," is a hymn of seventy verses in honor of the Trinity;
+_Fefellit saevam verbum factum te, caro_, "The Incarnate Word hath
+deceived thee (Death)" is an Easter hymn; and _Adae carnis gloriosae_,
+"In the person of the Heavenly Adam" is a hymn on the theme of the
 temptation of Jesus.[3] They are ponderous in style and expression and
 perhaps too lengthy for congregational use since they were destined to
 be superseded.
 
-In addition to these the hymn _Hymnum dicat turba fratrum_, “Let your
-hymn be sung, ye faithful,” has been most persistently associated with
-Hilary’s name. The earliest text occurs in a seventh century manuscript.
+In addition to these the hymn _Hymnum dicat turba fratrum_, "Let your
+hymn be sung, ye faithful," has been most persistently associated with
+Hilary's name. The earliest text occurs in a seventh century manuscript.
 It is a metrical version of the life of Jesus in seventy-four lines,
 written in the same meter as that of _Adae carnis gloriosae_.[4]
 
@@ -193,10 +226,10 @@ heard.
 
 Ambrose wrote hymns appropriate for morning and evening worship, four of
 which now extant, can be proved to be of his authorship, _Aeterne rerum
-conditor_, “Maker of all, eternal King,” _Deus creator omnium_, “Creator
-of the earth and sky,” _Iam surgit hora tertia_, “Now the third hour
-draws nigh,” and _Veni redemptor gentium_, “Come Redeemer of the
-earth.”[7] Many others in keeping with his style and inspiration have
+conditor_, "Maker of all, eternal King," _Deus creator omnium_, "Creator
+of the earth and sky," _Iam surgit hora tertia_, "Now the third hour
+draws nigh," and _Veni redemptor gentium_, "Come Redeemer of the
+earth."[7] Many others in keeping with his style and inspiration have
 been preserved and subjected to critical study with the result that
 eighteen hymns on varied themes are generally conceded to be Ambrosian.
 Had Ambrose never conferred upon the church his gift of hymnody he would
@@ -207,7 +240,7 @@ century. In this role he has spoken directly to multitudes of Christians
 throughout the world, many of whom have been unacquainted with his name
 or unaware that they were following the Ambrosian tradition of
 congregational song. (See Illustrative Hymns, I. _Splendor paternae
-gloriae_, “O Splendor of God’s glory bright.”)
+gloriae_, "O Splendor of God's glory bright.")
 
 Spain shares the honors with Gaul as the birthplace of the earliest hymn
 writers, claiming first Damasus and then Prudentius, (348-413?), a
@@ -225,9 +258,9 @@ their original form or in centos, spread throughout the Christian church
 while the martyr hymns were also drawn upon but to a lesser extent. The
 hymns selected for festival use are perhaps most familiar today, for
 example, for Advent, _Corde natus ex parentis ante mundi exordium_, of
-which the translation “Of the Father’s love begotten,” suggests the
-original meter. The Epiphany hymn, _O sola magnarum urbium_, “Earth hath
-many a noble city,” is also well known.[8]
+which the translation "Of the Father's love begotten," suggests the
+original meter. The Epiphany hymn, _O sola magnarum urbium_, "Earth hath
+many a noble city," is also well known.[8]
 
 Considered merely as Latin poetry, the hymns of Hilary, Ambrose and
 Prudentius are transitional in their literary character. They belong
@@ -257,7 +290,7 @@ preeminently St. Martin whose life and miracles he recounted in poetic
 form.
 
 Fortunatus seems to have carried with him from the Italian scenes
-associated with the poetry of Virgil—an inspiration which was never
+associated with the poetry of Virgil--an inspiration which was never
 entirely lost. His poems suggest a familiarity with the literary
 background of classical verse. During his mature life he lived in the
 environment of sixth century Gallic society which was already assuming
@@ -268,11 +301,11 @@ every degree from the monarch to the slave.
 Although the spirit of religious devotion and of orthodox belief is
 evident in many of the hundreds of lyrics which he composed, four only
 may be classed as hymns. Three of these are concerned with the theme of
-the Holy Cross, _Pange lingua, gloriosi proelium certaminis_, “Sing, my
-tongue, the glorious battle,” _Vexilla regis prodeunt_, “The banners of
-the king advance,” and _Crux benedicta nitet_, “Radiant is the blessed
-cross.” The fourth, _Tempora florigero rutilant distincta sereno_,
-“Season of luminous days, marked bright with the birth of the flowers,”
+the Holy Cross, _Pange lingua, gloriosi proelium certaminis_, "Sing, my
+tongue, the glorious battle," _Vexilla regis prodeunt_, "The banners of
+the king advance," and _Crux benedicta nitet_, "Radiant is the blessed
+cross." The fourth, _Tempora florigero rutilant distincta sereno_,
+"Season of luminous days, marked bright with the birth of the flowers,"
 is a Resurrection hymn.[9] It is impossible to indicate here the
 extraordinary influence which this group of hymns has exerted in the
 evolution of Christian hymnody, continuing in Gaul the tradition, as it
@@ -280,8 +313,8 @@ were, which Hilary first established. The circumstances of their origin
 and their lasting values will be considered in connection with
 processional hymns in Chapter VI.
 
-(See Illustrative Hymns, II. _Vexilla regis prodeunt_, “The banners of
-the king advance.”)
+(See Illustrative Hymns, II. _Vexilla regis prodeunt_, "The banners of
+the king advance.")
 
 
                            II. Metrical Forms
@@ -337,9 +370,9 @@ found. The fact that the hymns of Prudentius were in existence long
 before they appeared in the records of formal worship points to early
 Christian usage, however dimly perceived.
 
-Concerning music we learn from the most recent researches that “nothing
+Concerning music we learn from the most recent researches that "nothing
 definite is known of the melodies that were actually applied to the
-hymns of St. Ambrose.”[11] The traditional liturgical music of Milan is
+hymns of St. Ambrose."[11] The traditional liturgical music of Milan is
 known as the Ambrosian Chant. It cannot be traced to Ambrose himself but
 is supposed to have existed in a simpler form than that which appears in
 available manuscripts beginning with the twelfth century. At least it
@@ -358,7 +391,7 @@ song more characteristic of the lyric.
                                IV. Themes
 
 The tradition of Christian hymnology which upholds a way of life is
-fundamental in Ambrosian and contemporary hymns. The “way” is the first
+fundamental in Ambrosian and contemporary hymns. The "way" is the first
 term by which Christianity was designated in the Scriptures. Thus to the
 Scriptures the hymn writers turned for the living characterization of
 their themes. The call to a virtuous life is sounded in _Splendor
@@ -398,13 +431,13 @@ directly or by incidental mention, form a nucleus for the impressive
 medieval hymnology of the saints. The Apostles have first place both in
 chronology and importance. Prudentius praised the Roman martyrs and
 Ambrose those of Rome and Milan as well. Both honored Laurence the
-Deacon and Agnes the Virgin. To the praise of the whole group “the noble
-army of martyrs,” the hymn _Aeterna Christi munera_, “The eternal gifts
-of Christ the King,” was written, unrivalled as a martyr hymn in any
+Deacon and Agnes the Virgin. To the praise of the whole group "the noble
+army of martyrs," the hymn _Aeterna Christi munera_, "The eternal gifts
+of Christ the King," was written, unrivalled as a martyr hymn in any
 period of Latin hymnology.
 
-(See Illustrative Hymns, III. _Aeterna Christi munera_, “The eternal
-gifts of Christ the King.”)
+(See Illustrative Hymns, III. _Aeterna Christi munera_, "The eternal
+gifts of Christ the King.")
 
 
 
@@ -436,8 +469,8 @@ series, therefore, included the nocturnal cursus; vespers, compline,
 matins (nocturns and lauds), and the diurnal cursus; prime, terce, sext
 and nones.[2] An opportunity was afforded to unify the services and at
 the same time to make use of the symbolic number seven by reference to
-_Psalm 119: 164 (Ps. 118, Vulgate)_, “Seven times a day do I praise thee
-because of thy righteous ordinances.” From the simple assemblies of
+_Psalm 119: 164 (Ps. 118, Vulgate)_, "Seven times a day do I praise thee
+because of thy righteous ordinances." From the simple assemblies of
 early Christianity, therefore, and the daily offices of prayer, a fully
 elaborated cycle of hymns in time developed, appropriate to the
 symbolism of the seven hours and to the needs of the annual feasts.
@@ -465,7 +498,7 @@ hymn in secular worship?
 
 The old prejudice against non-scriptural hymns and in favor of the
 Psalms had never died out. By a canon of the Council of Laodicea (c.
-364), _psalmi idiotici_ or “private hymns” were forbidden, a mandate
+364), _psalmi idiotici_ or "private hymns" were forbidden, a mandate
 which was valid during the lifetime of Ambrose who, nevertheless,
 ignored a restriction intended to safeguard orthodoxy but hardly
 applicable in his case. In the sixth century the secular clergy of Spain
@@ -510,7 +543,7 @@ missionaries at its disposal, was able under Willibald to extend its
 influence through numerous subordinate monasteries and convents. Royal
 favor, already enjoyed by St. Gall and now conferred upon new
 establishments, rivalled that of popes and synods, which at the time of
-Pippin’s coronation in 750 or 752, combined to insure the success of the
+Pippin's coronation in 750 or 752, combined to insure the success of the
 Benedictine program.[8]
 
 On the side of secular worship, the hymnal used by Benedict and his
@@ -536,7 +569,7 @@ both in hymn writing and singing may be safely assumed for there are too
 many reports of his activity to be ignored. His actual role in the
 development of the chant which bears his name and the authorship of
 eight to eleven hymns attributed to him, have not been determined. For
-Gregory’s contribution to the ritual music of the church the reader is
+Gregory's contribution to the ritual music of the church the reader is
 referred to the discussion of this subject by specialists in the field
 of liturgical music. For his contribution to the hymn cycles, modern
 hymnologists have judged even the eight hymns singled out as Gregorian
@@ -547,8 +580,8 @@ have been in liturgical use to the present time. They are representative
 of the hymnology of the transition between the _Old Hymnal_ and the
 later cycles whose hidden origins Gregory may have influenced.
 
-(See Illustrative Hymns, IV. _Nocte surgentes vigilemus omnes_, “Father
-we praise Thee, now the night is over.”)
+(See Illustrative Hymns, IV. _Nocte surgentes vigilemus omnes_, "Father
+we praise Thee, now the night is over.")
 
 
                       II. Mozarabic Contributions
@@ -584,10 +617,10 @@ restrict the hymnody of the Church to the Psalms of the Old Testament.
 After a discussion of the old prohibitions and the reasons for approving
 the new compositions, Canon 13 reads:
 
-  “As with prayers, so also with hymns written for the praise of God,
+  "As with prayers, so also with hymns written for the praise of God,
   let no one of you disapprove of them but publish them abroad both in
   Gaul and Spain. Let those be punished with excommunication who have
-  ventured to repudiate hymns.”[13]
+  ventured to repudiate hymns."[13]
 
 Building upon the work of Ambrose, Sedulius and notably Prudentius,
 their own countryman; adapting ancient traditions of congregational
@@ -600,8 +633,8 @@ the Spanish and Gallican churches and they indicate a continuity of hymn
 singing from primitive congregational usage like the Ambrosian to the
 seventh century revival and extension of non-scriptural hymns.[14]
 
-(See Illustrative Hymns, V. _Alleluia piis edite laudibus_, “Sing
-alleluia forth in duteous praise.”)
+(See Illustrative Hymns, V. _Alleluia piis edite laudibus_, "Sing
+alleluia forth in duteous praise.")
 
 
                            III. Celtic Hymns
@@ -620,17 +653,17 @@ Celtic and continental regions.
 The so-called Bangor Antiphonary of the seventh century is the earliest
 manuscript containing hymns, twelve in number.[16] Its contents are
 otherwise miscellaneous, including a list of the abbots of Bangor.
-Hilary’s supposed hymn from this collection, _Hymnum dicat turba
+Hilary's supposed hymn from this collection, _Hymnum dicat turba
 fratrum_, has already been cited. An ancient communion hymn, _Sancti
-venite Christi corpus sumite_, “Draw nigh and take the body of the
-Lord,” is included and _Mediae noctis tempus est_, “It is the midnight
-hour,” an office hymn common to the hymnals of Spain and Gaul. Among
+venite Christi corpus sumite_, "Draw nigh and take the body of the
+Lord," is included and _Mediae noctis tempus est_, "It is the midnight
+hour," an office hymn common to the hymnals of Spain and Gaul. Among
 other important sources is the Irish _Liber hymnorum_, preserved in an
-eleventh century manuscript of Dublin which contains Columba’s hymn,
-_Altus prosator_, “Ancient of days,” honoring God the creator, and the
+eleventh century manuscript of Dublin which contains Columba's hymn,
+_Altus prosator_, "Ancient of days," honoring God the creator, and the
 _Lorica_ or _Breastplate Hymn_ of St. Gildas (6th C.), _Suffragare
-trinitatis unitas, unitatis miserere trinitas_, “Grant me thy favor,
-Three in One, have mercy on me, One in Three.”[17]
+trinitatis unitas, unitatis miserere trinitas_, "Grant me thy favor,
+Three in One, have mercy on me, One in Three."[17]
 
 On the whole Celtic hymns exhibit great variety in subject matter and
 purpose with many departures from the type of hymn cycle in use on the
@@ -648,15 +681,15 @@ missionaries whereby two streams of culture, previously isolated, united
 with significant results for the hymnology of the future.
 
 (See Illustrative Hymns, VI. _Sancti venite Christi corpus sumite_,
-“Draw nigh and take the body of the Lord.”)
+"Draw nigh and take the body of the Lord.")
 
 
                               IV. Summary
 
 The account of the Christian hymns of necessity accompanies that of the
 Christian organization, moving from the shores of the Mediterranean and
-the Christian centers in Roman provincial areas into the “regions
-beyond” of missionary effort. Although congregational singing in the
+the Christian centers in Roman provincial areas into the "regions
+beyond" of missionary effort. Although congregational singing in the
 Ambrosian sense appears to have been submerged in this process, the
 traditional hymnody was preserved, new hymns added and the foundation
 laid for the ninth century revival.
@@ -684,19 +717,19 @@ scarcely expect the fruits of peace and security to flourish. Yet in
 these very centuries there were created and circulated many of the best
 loved hymns of Christianity, a number of which have been in unbroken use
 to the present day. Among them are the illustrations inserted above and
-_Lucis Creator optime_, “O blest creator of the light;” the Advent
-hymns, _Verbum supernum prodiens_, “High Word of God who once didst
-come,” and _Conditor alme siderum_, “Creator of the stars of night;” the
-Easter hymn, _Claro paschali gaudio_, “That Easter day with joy was
-bright;” for the dedication of a church, _Urbs beata Jerusalem_,
-“Blessed city, heavenly Salem” with the more familiar second part,
-“Christ is made the sure foundation.” Two hymns honoring the Virgin date
-from this period: _Ave maris stella_, “Hail, Sea-Star we name Thee,” and
-_Quem terra pontus aethera_, “The God whom earth and sea and sky,”
+_Lucis Creator optime_, "O blest creator of the light;" the Advent
+hymns, _Verbum supernum prodiens_, "High Word of God who once didst
+come," and _Conditor alme siderum_, "Creator of the stars of night;" the
+Easter hymn, _Claro paschali gaudio_, "That Easter day with joy was
+bright;" for the dedication of a church, _Urbs beata Jerusalem_,
+"Blessed city, heavenly Salem" with the more familiar second part,
+"Christ is made the sure foundation." Two hymns honoring the Virgin date
+from this period: _Ave maris stella_, "Hail, Sea-Star we name Thee," and
+_Quem terra pontus aethera_, "The God whom earth and sea and sky,"
 initiating the Marian hymnology of the Middle Ages.[19]
 
-(See Illustrative Hymns, VII. _Ave maris stella_, “Hail, Sea-Star we
-name Thee.”)
+(See Illustrative Hymns, VII. _Ave maris stella_, "Hail, Sea-Star we
+name Thee.")
 
 Created and preserved in a clerical and for the most part a monastic
 environment these hymns express the Christian thought and faith of the
@@ -704,14 +737,14 @@ era which was thus treasured up for wider circulation and influence in a
 later and more settled society. The words of the late Canon Douglas, a
 great American hymnologist, are memorable in this connection:
 
-  “What does have a practical bearing on our subject is, that whatever
+  "What does have a practical bearing on our subject is, that whatever
   may have been the older cycle, it was enriched to an extraordinary
   degree in the early medieval centuries. What began in Milan, and
   achieved its permanent recognition at Monte Cassino, was soon to bring
   about a Mozarabic Hymnal in Spain, a Gallican hymnal in northern
   Europe, an Anglo-Irish cycle in Britain: and from all these various
   increments not only enlarged the growing Hymnal but also richly
-  diversified it.”[20]
+  diversified it."[20]
 
 
                                 Appendix
@@ -825,12 +858,12 @@ _gloria_ be improved, that schools of singing and grammar be founded in
 monastic and diocesan centers, that both regular and secular clergy be
 urged to acquire knowledge and skill in singing, that the Roman Chant be
 ordained, that a singing school be established at Aix-la-Chapelle, that
-the clergy read and sing well.[3] Charlemagne’s successors, Louis the
+the clergy read and sing well.[3] Charlemagne's successors, Louis the
 Pious and Charles the Bald continued his reforming policy.
 
-In the legislation cited above, Charlemagne had followed his father’s
+In the legislation cited above, Charlemagne had followed his father's
 example which favored a training in Gregorian music under Roman
-teachers, as developed in the schools of Rome.[4] Pippin’s interest had
+teachers, as developed in the schools of Rome.[4] Pippin's interest had
 resulted in the establishment of a musical center of great repute at
 Metz[5] which also possessed a cathedral school representative of the
 finest institutions which flourished at this time side by side with
@@ -910,7 +943,7 @@ infiltration of Byzantine influence might be conceived as a by-product
 of European intercourse.
 
 Insofar as hymnology is concerned, musical contacts between the
-Byzantine and Frankish realms were frequent. As early as Pippin’s reign,
+Byzantine and Frankish realms were frequent. As early as Pippin's reign,
 Byzantine musicians appeared at the Frankish court with a gift of an
 organ from the Emperor Constantinus Copronymus.[15] Many refugee monks
 who fled to the west during the iconoclastic controversy remained there
@@ -926,7 +959,7 @@ activities of Gregory the Great and are entirely comprehensible, so far
 as he is concerned, in view of his residence at Constantinople, 579-585,
 as papal envoy of Pelagius II.[17] The importation of litanies into the
 west illustrates this type of influence. When Charlemagne received the
-Sacramentary from Pope Hadrian I, it was labelled “Gregorian.” But in
+Sacramentary from Pope Hadrian I, it was labelled "Gregorian." But in
 the interval between the lives of Gregory and Charlemagne, popes of
 eastern origin, ruling at the end of the seventh and the beginning of
 the eighth century were responsible for western practice.[18] The
@@ -970,12 +1003,12 @@ geographical limits of Carolingian political influence. The hymn cycles
 of the period, recorded in manuscripts which reflect the numerical
 increase in hymns as well as their diffusion upon the continent, are
 associated with religious centers, for example, St. Martial, Laon,
-Douai, Moissac, St. Germain-des-Prés, Corbie, Jumièges, Reichenau,
-Treves, Schäftlarn near Munich, Murbach, Rheinau, St. Gall, Einsiedeln,
+Douai, Moissac, St. Germain-des-Pr�s, Corbie, Jumi�ges, Reichenau,
+Treves, Sch�ftlarn near Munich, Murbach, Rheinau, St. Gall, Einsiedeln,
 Bobbio, Monte Cassino, Benevento, Padua, Toledo, Canterbury, Naples and
 many other places. The nucleus of the _Later Hymnal_ has been identified
 with the hymn cycle found partly in a _hymnarium_ of the ninth century
-from St. Paul’s in Lavantthal, Carinthia, and partly in a similar
+from St. Paul's in Lavantthal, Carinthia, and partly in a similar
 manuscript from Karlsruh, both manuscripts being associated with
 Reichenau.[20] The basic hymns from this group of sources current in the
 Carolingian period are listed in the appendix to this chapter. A
@@ -993,8 +1026,8 @@ and affirmed by Walpole, depends upon the theory that the later cycle
 had been in use in the British Isles since the period of Gregory the
 Great. An Anglo-Irish cycle therefore, was posited which took possession
 of the continent, usurping the original Benedictine hymnal. As early as
-1911, Blume’s theory was questioned by Wilmart, the Benedictine scholar,
-who asserted that the early cycle constituted a Gallican hymnal only,—a
+1911, Blume's theory was questioned by Wilmart, the Benedictine scholar,
+who asserted that the early cycle constituted a Gallican hymnal only,--a
 possibility mentioned above. He thought that the _Later Hymnal_ was a
 new version of the Benedictine cycle representing a normal growth
 through the centuries. Other critics of note have adopted one or the
@@ -1020,7 +1053,7 @@ medieval hymnology.
 
 Charlemagne was particularly interested in St. Gall but was also
 concerned with the monastic centers at Mainz, Fulda, Treves, Cologne,
-Bamberg, Hersfeld, Lorsch, Würzburg and Reichenau.[24] He founded
+Bamberg, Hersfeld, Lorsch, W�rzburg and Reichenau.[24] He founded
 Neustadt and endowed twelve monasteries in Germany. Meanwhile missionary
 zeal had guided Benedictine pioneers beyond the old boundaries, and
 Bavaria and Frisia had already been opened to missions and incidentally
@@ -1028,7 +1061,7 @@ to the full round of Benedictine activities. Louis the Pious was active
 in monastic reform through his association with Benedict of Aniane; he
 was a special patron of St. Gall and he stimulated the efforts of
 leaders from Corbie to found New Corbie. Charles the Bald was a
-benefactor of Marchiennes, Compiègne, Prum and St. Denis.[25] Prior to
+benefactor of Marchiennes, Compi�gne, Prum and St. Denis.[25] Prior to
 this period, the numerous and influential foundations established on the
 continent by Irish monks had adopted the Benedictine Rule, swelling the
 total number of centers devoted to religious and educational activities.
@@ -1073,8 +1106,8 @@ Samson, 2; Sedulius Scottus, 2; Milo, 2; Ratbod, 2; Hucbald, 1;
 Hartmann, 4; Ratpert, 4; Eugenius Vulgarius, 1; these with 73 of
 doubtful authorship make a total contribution of 114 hymns.
 
-(See Illustrative Hymns, VIII. _Ut queant laxis resonare fibris_, “In
-flowing measures worthily to sing,” Paulus Diaconus.)
+(See Illustrative Hymns, VIII. _Ut queant laxis resonare fibris_, "In
+flowing measures worthily to sing," Paulus Diaconus.)
 
 Ambrosian meters are set aside in favor of the classical meters of the
 Greeks, the Sapphic and elegiac meters proving to be the most popular
@@ -1093,7 +1126,7 @@ The direct influence of Celtic culture upon the new hymn cycles must be
 associated with the introduction of biblical and liturgical works
 containing hymns into Frankish territory. Later, hymns were written by
 Celtic scholars, for instance, Samson, Sedulius Scottus (enumerated
-above) and possibly others who are anonymous. Blume’s theory of the
+above) and possibly others who are anonymous. Blume's theory of the
 Anglo-Irish hymn cycle, originally sponsored by Gregory the Great and
 finally transferred to the continent, illustrates the most decisive form
 which Celtic influence has so far been presumed to have exerted. The
@@ -1155,8 +1188,8 @@ all the wisdom of that age and a man of action in a sense understandable
 in any age. Bishop of Orleans, courtier, officer in the administration
 of Charlemagne, he served the church and the state with equal
 distinction. Theodulphus as a poet of sacred verse is best known for his
-Palm Sunday processional hymn, _Gloria, laus et honor tibi sit_, “All
-glory, laud and honor,”[30] which he wrote during the period of his fall
+Palm Sunday processional hymn, _Gloria, laus et honor tibi sit_, "All
+glory, laud and honor,"[30] which he wrote during the period of his fall
 from royal favor under Louis the Pious. This beautiful processional
 hymn, a triumph of Carolingian verse, invested with all the attraction
 of legend and religious pageantry, has been a favorite in every period
@@ -1189,8 +1222,8 @@ _Veni, creator spiritus_, has been persistently associated with the name
 of Rabanus but without adequate proof. It is a lasting hymn of the ninth
 century.
 
-(See Illustrative Hymns, IX. _Veni, creator spiritus_, “Creator-Spirit,
-all-Divine.”)
+(See Illustrative Hymns, IX. _Veni, creator spiritus_, "Creator-Spirit,
+all-Divine.")
 
 Walafrid Strabo, (809-c. 849), was like Rabanus of Germanic origin and
 like him a member of the regular clergy. At Reichenau he received his
@@ -1239,8 +1272,8 @@ Alcuin was indebted to Mozarabic sources in his reform of the Frankish
 rites.[33] Hymns of Mozarabic origin appeared in other parts of western
 Europe and vice versa.
 
-(See Illustrative Hymns, X. _Deus immensa trinitas_, “O glorious
-immensity.”)
+(See Illustrative Hymns, X. _Deus immensa trinitas_, "O glorious
+immensity.")
 
 The possible influence of Arabian music and poetry upon the Christian
 hymn has been a tempting idea and one most elusive of pursuit. Studies
@@ -1415,7 +1448,7 @@ three hypotheses have been offered. Arguing from the appearance of the
 trope, some have suggested that the _iubilus_ is a musical interpolation
 just as the trope is a textual interpolation. This is quite possible but
 perhaps too simple for an adequate solution. A much more tempting
-hypothesis has appealed to a variety of scholars,—that of the
+hypothesis has appealed to a variety of scholars,--that of the
 introduction of Greek melodies.[3] To these students it has seemed more
 than probable that the intercourse between western Europe and the
 Byzantine realms in the reign of Charlemagne constitutes a sufficient
@@ -1481,7 +1514,7 @@ innovations at the expense of Gallican forms.
 
 One of the suggestions mentioned to account for the original lengthening
 of the _alleluia_ in the _iubilus_ is connected with the trope. The word
-has long been defined as a textual interpolation.[9] Gastoué, however,
+has long been defined as a textual interpolation.[9] Gastou�, however,
 contends that it was originally and primarily musical, a vocalization in
 the existing chant and that it was created in the music school. The
 ancient form of trope is a _neuma triplex_ added to the response _In
@@ -1497,13 +1530,13 @@ with the _alleluia_ may very reasonably have been considered a trope,
 since vocalisms like these had already appeared elsewhere in rites of
 worship, and sequences in addition to those which belong to the
 _alleluia_ of the mass have been found in antiphonaries. To repeat,
-Gastoué describes a musical interpolation or trope originating in the
+Gastou� describes a musical interpolation or trope originating in the
 music schools of the Franks and appearing in various liturgical
 settings. He likens the _iubilus_ to a trope which Amalarius called a
 _sequentia_. The original divisions created by the musical phrases in
 the _iubilus_ now appear in a series, each repeated a certain number of
 times with introduction and conclusion and thus the completed sequence
-structure comes into being. The germ of its formal construction, Gastoué
+structure comes into being. The germ of its formal construction, Gastou�
 finds in certain Gregorian sources. The ancient _alleluia_, _Justus ut
 palma florebit_, shows such characteristics and reveals the liturgical
 Latin origin of the sequence, its melody going back to the _versus
@@ -1512,8 +1545,8 @@ alleluiaticus_.
 In spite of the evidence which would make the sequence a native musical
 product of western Europe, the theory of Greek origin is still
 persistently held by certain scholars. For that reason it must be
-considered in greater detail. Gregory’s adoption of Greek novelties
-forms the starting point of this theory, while Charlemagne’s well-known
+considered in greater detail. Gregory's adoption of Greek novelties
+forms the starting point of this theory, while Charlemagne's well-known
 enthusiasm for Greek innovations carries its proponents still further.
 The fact that the original Greek melodies which are assumed to have been
 used in the west, have never been produced in evidence, is not a proof
@@ -1582,12 +1615,12 @@ A second explanation of origin arises from the possibility that sequence
 poetry originated in the imitation of Greek hymn models. The statement
 has been made definitely that sequence poetry shows the transference of
 the Byzantine structure of hymnody to Latin church poetry, especially
-Notker’s.[18] With every circumstance favoring such a transfer it is
+Notker's.[18] With every circumstance favoring such a transfer it is
 amazing that the Franks who heard so much of Greek hymns and could have
 translated them into Latin and sung them to the same tunes, evidently
 did nothing of the kind. Some other explanation of similarity must be
 found. Metrical parallelism, which is characteristic of the Latin
-sequence and contemporary Greek hymns, in Gastoué’s opinion, can be
+sequence and contemporary Greek hymns, in Gastou�'s opinion, can be
 accounted for only by reference to Hebrew poetry as the ultimate
 inspiration of liturgical poetry.[19] Thus a Byzantine theory of origin
 breaks down when metrical sources are subjected to closer scrutiny.
@@ -1618,7 +1651,7 @@ given rise to the theory that it originated there. Present-day opinion,
 as indicated above, concedes that sequences arose in France and that St.
 Gall is not a place of origin but like St. Martial, a prominent center
 for their composition and diffusion. Other centers were Metz, Murbach,
-Fulda, Echternach, Kremünster and St. Florian. Reichenau, too, was
+Fulda, Echternach, Krem�nster and St. Florian. Reichenau, too, was
 important in music and in the spread of sequence poetry.[23]
 
 Notker Balbulus, (840?-912), was largely responsible for the enviable
@@ -1629,25 +1662,25 @@ later a teacher of the music school in the period of Louis the Pious and
 Louis the German, he shared the life of the Abbey during the height of
 its reputation, when its doors were open to travelers from every land
 and every rank of society. Notker himself tells of the refugee from the
-French monastery of Jumièges who brought with him his famous
+French monastery of Jumi�ges who brought with him his famous
 Antiphonary. Tradition has it that Notker composed words to fit the
 forms of the _alleluia-iubilus_, note for note, already in use in his
 monastery, and thus originated the sequence, finding his inspiration,
-not in the Ambrosian hymns but in the liturgy.[24] The Jumièges
+not in the Ambrosian hymns but in the liturgy.[24] The Jumi�ges
 Antiphonary reached St. Gall about 860, by which time _prosae_ were
 already known in France. There is evidence, moreover, from manuscripts,
-that texts existed before Notker’s time in St. Gall. He is not their
+that texts existed before Notker's time in St. Gall. He is not their
 first composer nor are the sequences emanating from St. Gall necessarily
-all Notker’s work. “Notkerian” means for sequences what “Ambrosian”
+all Notker's work. "Notkerian" means for sequences what "Ambrosian"
 means for hymns.
 
 The problem of the authentic Notkerian sequences was subjected to
 critical study and variously solved by Schubiger in 1858, Wilmanns in
 1872, and Werner in 1901. More recent students have re-examined the
-evidence and expressed their critical opinions as to Notker’s poetical
+evidence and expressed their critical opinions as to Notker's poetical
 and musical prestige: Singer in 1922, Van Doren in 1925 and Clark in
 1926. Of more than 100 sequences attributed to Notker, 47 were judged to
-be authentic and edited in volume 53 of the _Analecta Hymnica_. Notker’s
+be authentic and edited in volume 53 of the _Analecta Hymnica_. Notker's
 ability as a musician appears to be a matter of controversy. A new
 review of the Notkerian problem and its literature has been offered by
 the Swiss scholar, Wolfram von den Steinen, together with an edition of
@@ -1655,19 +1688,19 @@ the sequences of the St. Gall school.[25] What scholars in general have
 taken away from Notker with one hand they return with the other, for if
 not an originator he is conceded to be the leading agent in introducing
 the sequence into Germany and setting a standard for this type of poetry
-which included from Notker’s pen a notable group of sequences for the
+which included from Notker's pen a notable group of sequences for the
 festivals of the whole year. His sequence for Pentecost is
 representative of the achievements of the German school.
 
-(See Illustrative Hymns, XI. _Sancti spiritus adsit nobis gratia_, “The
-grace of the Holy Ghost be present with us.”)
+(See Illustrative Hymns, XI. _Sancti spiritus adsit nobis gratia_, "The
+grace of the Holy Ghost be present with us.")
 
 It is not surprising that scholars interested in the theory of Greek
 influence upon sequence poetry should seek confirmation of their views
-in Notker’s work. There is a majestic quality and a vigorous resounding
+in Notker's work. There is a majestic quality and a vigorous resounding
 praise in these poems which has been thought a reflection of Byzantine
 hymns. Reference has already been made to the Byzantine strophic system
-and its probable influence upon Notker’s poetical technique. When one
+and its probable influence upon Notker's poetical technique. When one
 considers that the monastery of St. Gall was always a port of call for
 refugees and travelers from the east and in the preceding century may
 have harbored many of them, it is reasonable to suppose that Notker was
@@ -1687,11 +1720,11 @@ standard of the Latin language as employed in the Middle Ages.
 Throughout the period, all Latin hymns which include a narrative element
 or refer in any other way to biblical statements are greatly indebted to
 the Vulgate. A considerable number of Greek words, naturally, appear in
-the Vulgate. Applying the criterion of Greek words to Notker’s
+the Vulgate. Applying the criterion of Greek words to Notker's
 sequences, one reaches no definitive results whatever. In the forty-one
 sequences attributed to Notker by Wilmanns, some seven Greek words
 appear which are not in the Vulgate.[27] If this proves anything in
-Notker’s case, it is significant only in connection with other evidence
+Notker's case, it is significant only in connection with other evidence
 from Greek originals which has not been advanced.
 
 Having considered the separate development of the musical and poetical
@@ -1778,7 +1811,7 @@ often attributed to Notker, this superb sequence reaches a height of
 expression comparable to the noblest hymns of the ninth century revival.
 
 (See Illustrative Hymns, XII. _Cantemus cuncti melodum nunc Alleluia_,
-“The strain upraise of joy and praise.”)
+"The strain upraise of joy and praise.")
 
 
 
@@ -1793,10 +1826,10 @@ through the High Middle Ages. A recent historian of medieval literature,
 De Ghellinck, sees the religious poetry of the twelfth century rivalling
 the secular, and points out that ten thousand specimens of every type of
 religious verse, from 1060 to 1220, are edited in the _Analecta
-Hymnica_.[1] Maurice Hélin, whose attractive volume is available in
+Hymnica_.[1] Maurice H�lin, whose attractive volume is available in
 English translation, considers the poetic product of the twelfth century
-the peak of Latin poetry and “its most original contribution to the
-intellectual patrimony of the west.”[2]
+the peak of Latin poetry and "its most original contribution to the
+intellectual patrimony of the west."[2]
 
 It is easier to repeat such a statement than to present acceptably the
 relevant evidence in the field with which this chapter is concerned. One
@@ -1818,10 +1851,10 @@ than 100 sequences which appear in the manuscripts of St. Victor. They
 were published first by Leon Gautier in 1858 and in the later nineteenth
 century were subjected to critical analysis by Misset who regarded 45
 sequences as authentic.[3] Blume, who edited the Victorine sequences in
-volumes 54 and 55 of the _Analecta Hymnica_, attributed 48 to Adam’s
+volumes 54 and 55 of the _Analecta Hymnica_, attributed 48 to Adam's
 authorship.
 
-Adam’s poetical concepts are centered in the mystical interpretation of
+Adam's poetical concepts are centered in the mystical interpretation of
 biblical narratives and of Christian theology as it was taught in the
 schools of Paris. Hugh and Richard of St. Victor were his contemporaries
 but Adam was poet as well as theologian. Praise was to him an essential
@@ -1831,11 +1864,11 @@ popularized in the hymn. A group of rhymed trochaic lines of eight
 syllables with a caesura after the fourth syllable at the end of a word,
 closes with a seven syllable line. This scheme with its many variants
 characterizes the work of Adam and his imitators in countless Latin and
-later, vernacular lyrics. Adam’s sequence for the Feast of St. Stephen
+later, vernacular lyrics. Adam's sequence for the Feast of St. Stephen
 has been selected as illustrative of his finest work.
 
-(See Illustrative Hymns, XIII. _Heri mundus exultavit_, “Yesterday with
-exultation.”)
+(See Illustrative Hymns, XIII. _Heri mundus exultavit_, "Yesterday with
+exultation.")
 
 To appreciate fully the function of the sequence in worship at this time
 as well as its appeal to popular imagination, one should isolate a
@@ -1846,7 +1879,7 @@ veneration of the Virgin reached at this time, its pinnacle of
 expression. Notker had provided sequences for her Nativity, Purification
 and Assumption. Adam of St. Victor, poet of the Virgin, drew upon all
 the resources of medieval symbolism in his _Salve, redemptoris mater_,
-“Hail, mother of the Redeemer,” a masterpiece of medieval religious
+"Hail, mother of the Redeemer," a masterpiece of medieval religious
 verse. Clerical poets everywhere met the challenge of his example. The
 result was indicative not only of their devotion and their poetic skill
 which was at times indifferent, but of the actual use of the Virgin
@@ -1855,25 +1888,25 @@ to wide congregations of clergy and laity.
 
 During this period great sequence writers appeared, some known and
 distinguished, the majority anonymous. To the latter group belongs the
-author of the Easter sequence, _Victimae paschali laudes_, “Christians,
-to the Paschal Victim,” which represents the transition between the
+author of the Easter sequence, _Victimae paschali laudes_, "Christians,
+to the Paschal Victim," which represents the transition between the
 Notkerian and Victorine styles. The growing relationship between Latin
 hymnology and the arts becomes obvious in this sequence which was of
 importance in building the liturgical drama for Easter. The dialogue
 embedded in the poem,
 
-  “Speak, Mary, declaring
-  What thou sawest wayfaring?”
+  "Speak, Mary, declaring
+  What thou sawest wayfaring?"
 
 and her reply, ending
 
-  “Yea, Christ my hope is arisen:
-  To Galilee he goes before you.”
+  "Yea, Christ my hope is arisen:
+  To Galilee he goes before you."
 
 contributed, with other sources, to the fully developed Easter Play.
 
 The so-called Golden Sequence for Pentecost, _Veni sancte spiritus_,
-“Come, thou Holy Spirit, come,”[4] also of undetermined authorship,
+"Come, thou Holy Spirit, come,"[4] also of undetermined authorship,
 attained perhaps the greatest prestige, having now been heard in
 Christian worship for more than eight hundred years.
 
@@ -1908,14 +1941,14 @@ certainly had never ceased. Gathering up the sources after the period of
 ninth century influence described in Chapter Three, one pauses at the
 verse of Peter Damian, (988-1072), Cardinal Bishop of Ostia and Superior
 of the monks of the Holy Cross. His theme was the joys of paradise in
-the hymn _Ad perennis vitae fontem_, “To the fount of life eternal,” a
+the hymn _Ad perennis vitae fontem_, "To the fount of life eternal," a
 topic about which a distinguished hymnody was ultimately created.
 
-(See Illustrative Hymns, XIV. _Ad perennis vitae fontem_, “To the fount
-of life eternal.”)
+(See Illustrative Hymns, XIV. _Ad perennis vitae fontem_, "To the fount
+of life eternal.")
 
 Fulbert, Bishop of Chartres (d. 1028), is best known for his Easter
-hymn, _Chorus novae Ierusalem_, “The chorus of the New Jerusalem,”[5] in
+hymn, _Chorus novae Ierusalem_, "The chorus of the New Jerusalem,"[5] in
 which the militant ideal in its knightly form finds expression as the
 warriors of the faith acclaim the victory of their royal and divine
 leader.
@@ -1924,36 +1957,36 @@ In the twelfth century, a complete new hymnary in all its parts was
 written by Abelard, (1079-1142), for the Convent of the Paraclete of
 which Heloise was the abbess.[6] A collection of 91 hymns, it has never
 been highly praised by critics, yet it has provided the hymn, _O quanta
-qualia_, “How mighty are the Sabbaths,” in praise of the Sabbath and the
-Good Friday hymn, _Solus ad victimam procedis, Domine_, “Alone to
-sacrifice Thou goest, Lord,” both of which have found a place in recent
-hymnals. Helen Waddell’s translations of the two illustrate modern
+qualia_, "How mighty are the Sabbaths," in praise of the Sabbath and the
+Good Friday hymn, _Solus ad victimam procedis, Domine_, "Alone to
+sacrifice Thou goest, Lord," both of which have found a place in recent
+hymnals. Helen Waddell's translations of the two illustrate modern
 renderings at their best. The same century saw the achievement of
 Bernard of Cluny or Morlaix, (fl. 1122), whose long poem, _De contemptu
 mundi_ furnished the selections on the heavenly country, _Hora
 novissima_, popularized by the translations of John Mason Neale. Perhaps
-the best-known of these, _Urbs Sion aurea_, “Jerusalem the Golden,” in
+the best-known of these, _Urbs Sion aurea_, "Jerusalem the Golden," in
 its English rendering has attained a vernacular status independently of
 its Latin original. The great anonymous hymn, _Jesu dulcis memoria_,
-“Jesu, the very thought of Thee,” is also of the twelfth century. Its
+"Jesu, the very thought of Thee," is also of the twelfth century. Its
 authorship has been variously ascribed but never certainly determined.
 
 The thirteenth century was marked by the rise of hymn writing in the new
 religious orders founded by St. Francis of Assisi and St. Dominic. The
-Franciscan Bonaventura (1221-74), wrote _Recordare sanctae crucis_, “Be
-mindful of the Holy Cross,” on the theme of the Cross. To read this hymn
+Franciscan Bonaventura (1221-74), wrote _Recordare sanctae crucis_, "Be
+mindful of the Holy Cross," on the theme of the Cross. To read this hymn
 side by side with the _Vexilla regis prodeunt_ of Fortunatus, is to
 apprehend more fully the increasing subjectivity of the Latin hymn in
 500 years of its history. The passion of Christ is, moreover, a favorite
 theme and object of devotion of the friars, ever present to their
 thinking. Thomas Aquinas, (1227-74), greatest of the Dominicans, wrote
 the hymns for the Feast of Corpus Christi, established by Pope Urban IV
-in 1265. Of these, _Pange lingua, gloriosi corporis mysterium_, “Sing my
-tongue, the Saviour’s glory,”[7] modeled after the form of the _Pange
+in 1265. Of these, _Pange lingua, gloriosi corporis mysterium_, "Sing my
+tongue, the Saviour's glory,"[7] modeled after the form of the _Pange
 lingua_ of Fortunatus, is in its subject matter a poetic version of the
 mystical subtleties implicit in the dogma of the feast. John Peckham,
-Archbishop of Canterbury, (1240-92), wrote _Ave vivens hostia_, “Hail,
-true Victim,” a fine hymn upon the same theme which suggests the
+Archbishop of Canterbury, (1240-92), wrote _Ave vivens hostia_, "Hail,
+true Victim," a fine hymn upon the same theme which suggests the
 inspiration of Aquinas.
 
 
@@ -1962,16 +1995,16 @@ inspiration of Aquinas.
 From the sequences of the later Middle Ages only a few have gained
 eminence but in certain cases as high a place as any in the whole range
 of their composition. Thomas Aquinas shows himself master of the
-sequence as well as the hymn in his _Lauda Sion Salvatorem_, “Praise, O
-Sion, praise thy Saviour,” a model of the Victorine technique.
+sequence as well as the hymn in his _Lauda Sion Salvatorem_, "Praise, O
+Sion, praise thy Saviour," a model of the Victorine technique.
 
-(See Illustrative Hymns, XV. _Lauda Sion Salvatorem_, “Praise, O Sion,
-praise thy Saviour.”)
+(See Illustrative Hymns, XV. _Lauda Sion Salvatorem_, "Praise, O Sion,
+praise thy Saviour.")
 
-_Dies irae_, “Day of wrath,” most majestic of all sequences, universally
+_Dies irae_, "Day of wrath," most majestic of all sequences, universally
 acknowledged as the greatest achievement of Latin hymnology, was
 probably written by the Franciscan Thomas of Celano. It was originally
-used at Advent, later for All Souls’ Day and for requiem masses. The
+used at Advent, later for All Souls' Day and for requiem masses. The
 Judgment theme is obviously inspired by the words of the Prophet
 Zephaniah (1:15) from which the opening line _Dies irae, dies illa_ is
 taken. A special literature, together with a multitude of translations,
@@ -1986,12 +2019,12 @@ which the medieval man stood helpless, is faithfully reflected in
 contemporary hymns.
 
 The lament in its poetic form is associated with the Marian hymnology of
-the fourteenth century. The _Stabat mater dolorosa_, “By the Cross her
-vigil keeping,”[10] its finest expression, like the _Dies irae_, needs
+the fourteenth century. The _Stabat mater dolorosa_, "By the Cross her
+vigil keeping,"[10] its finest expression, like the _Dies irae_, needs
 little comment in these pages.
 
-(See Illustrative Hymns, XVI. _Stabat mater dolorosa_, “By the Cross her
-vigil keeping.”)
+(See Illustrative Hymns, XVI. _Stabat mater dolorosa_, "By the Cross her
+vigil keeping.")
 
 In this period it seems, at least to the present writer, that the
 Italian-born poets of the religious lyric come into their rightful
@@ -2021,7 +2054,7 @@ unfamiliar to the modern student, some have never been translated into
 English, but as a whole they are truly representative of this body of
 poetry in the period of its greatest interest. A tropary of St. Martial
 of the thirteenth century contains an anonymous Easter sequence, _Morte
-Christi celebrata_ (_A. H._ 8. 33), “Christ’s passion now is o’er,”[11]
+Christi celebrata_ (_A. H._ 8. 33), "Christ's passion now is o'er,"[11]
 which bears comparison with the better-known sequences which have been
 named above.
 
@@ -2117,7 +2150,7 @@ Arabian influence upon the Mozarabic hymnody. In both fields the
 evidence is tenuous and especially in the latter where the imprint of
 Arabian cultural forms would seem to be most probable. In the centuries
 which produced the troubadours, the problem takes the form of a possible
-indirect influence from Arabian origins through the Provençal singers
+indirect influence from Arabian origins through the Proven�al singers
 upon the evolution of the sequence.[16] It is true that the twelfth and
 thirteenth centuries boasted at least four hundred troubadours whose
 poetry is extant. The names of others are known but not their poems. As
@@ -2184,7 +2217,7 @@ pilgrimage but their texts are rare. A formal collection of Latin hymns
 associated with the shrine of St. James of Campostella, the _Carmina
 Campostellana_, has been edited in the seventeenth volume of the
 _Analecta Hymnica_. As might be supposed, they voice the praises of St.
-James, _Ad honorem regis summi_, “To the honor of the King,” (_A. H._
+James, _Ad honorem regis summi_, "To the honor of the King," (_A. H._
 17. 210) being a favorite in both Latin and vernacular versions.[18] As
 a matter of fact, the hymnody of pilgrimage must have been largely
 patronal, a conclusion supported by existing Latin texts. Unfortunately
@@ -2203,7 +2236,7 @@ Latin hymns, which hinges upon the further question of the degree to
 which the layman could sing or even understand the Latin hymn, from the
 twelfth century onward. The pious injunctions of Alexander of Hales and
 Henricus de Gorichen (15th C.) to sing hymns, merely repeat a dictum of
-St. Apollonius regarding the observance of the Lord’s Day in the second
+St. Apollonius regarding the observance of the Lord's Day in the second
 century and must not be taken too seriously by the modern student.[20]
 It is indeed slight evidence for the singing of Latin hymns by the
 laity. The problem is in reality linguistic and revolves about the
@@ -2229,9 +2262,9 @@ The degree and extent of elementary and secondary education upon which
 the university instruction was necessarily founded, have been the
 subject of several recent studies. It seems certain that schools for
 children and youth existed from the ninth century onward in cathedral
-and other centers and that, as Lynn Thorndike says, “in the period of
+and other centers and that, as Lynn Thorndike says, "in the period of
 developed medieval culture elementary education was fairly wide-spread
-and general.”[21] Without entering into the details of this program,
+and general."[21] Without entering into the details of this program,
 illuminating as they are, we note that the curriculum was founded upon
 the Latin language and Latin studies. The contemporary growth of towns
 involved an expansion of education which was marked by the appearance of
@@ -2325,7 +2358,7 @@ great themes may be selected for this purpose, for example, the
 Pentecostal theme, with a group of hymns in which the earlier ones are
 simple narratives following the biblical account of the descent of the
 Holy Spirit; the later ones are exemplified by _Veni, sancte spiritus_,
-“Come, Thou Holy Spirit, come,” already cited, in which the Spirit is
+"Come, Thou Holy Spirit, come," already cited, in which the Spirit is
 addressed and invoked for personal blessings and the sevenfold gifts.
 
 With the waning of the medieval centuries came a characteristic
@@ -2386,15 +2419,15 @@ Prior to the fourth century the record is obscure. Miscellaneous notices
 begin to appear in the last quarter of the century. Basil notes a
 procession in the form of a litany (c. 375). Ambrose mentions a
 procession of monks (c. 388) and also refers to a procession in Rome
-honoring Sts. Peter and Paul, in his hymn, _Apostolorum passio_, “The
-passion of the Apostles,” (A. H. 50. 17). Chrysostom was active in
+honoring Sts. Peter and Paul, in his hymn, _Apostolorum passio_, "The
+passion of the Apostles," (A. H. 50. 17). Chrysostom was active in
 organizing processions in Constantinople to offset Arian influence
 (390-400).[2] At the same period, 379-388, Aetheria (St. Sylvia of
 Aquitania?) made her pilgrimage to the holy places of Palestine,
 describing in her journal in detail, the ceremonies enacted in the
 worship of the Christian Church at Jerusalem.[3]
 
-Remarkable in all respects, Aetheria’s narrative is obviously written in
+Remarkable in all respects, Aetheria's narrative is obviously written in
 a spirit of devotion with eager curiosity and joyful appreciation. She
 describes, among other observances, the Hour services, especially the
 _lucernare_ when hymns were sung, the Sunday procession to the Anastasis
@@ -2413,7 +2446,7 @@ musical parts of the worship she observed, but not indiscriminately. She
 was probably familiar with hymns as they had developed in the fourth
 century both in the eastern and western churches. It has been assumed
 that the hymn sung at the daily lighting of the candles was _Phos
-hilaron_, “O gladsome light.”[5] The hymns she heard at the Good Friday
+hilaron_, "O gladsome light."[5] The hymns she heard at the Good Friday
 observance have been tentatively identified as the _Idiomela_ for Good
 Friday, traditional in Byzantine ritual.[6] In any case they were true
 hymns, perhaps of a metrical, or more probably of a rhythmical type. It
@@ -2456,7 +2489,7 @@ of the Roman era. The _litaniae maiores_ which were prescribed by
 Gregory the Great, 598, and Leo III (795-816), were of similar origin
 and purpose. A _litania septiformis_ was also organized by Gregory on
 the occasion of a pestilence at Rome.[10] The _litania maior_ came to be
-observed on April 25, St. Mark’s day, and the _litaniae minores_ in the
+observed on April 25, St. Mark's day, and the _litaniae minores_ in the
 three days preceding Ascension. Psalms but not hymns in the sense of
 non-scriptural compositions were heard in the litanies. The procession
 of supplication common alike to pagan and Christian practice is
@@ -2474,8 +2507,8 @@ Purification of the Virgin. The Feast of Ypapanti or Presentation,
 originally observed in Jerusalem and later adopted in Constantinople, as
 noted above, gained in the transfer a new feature. The carrying of
 lighted candles, not mentioned by Aetheria, seems to have been added in
-Byzantine practice. The words spoken by Simeon of the infant Jesus, “a
-light to lighten the Gentiles” (Luke 2. 32) made the symbolic use of
+Byzantine practice. The words spoken by Simeon of the infant Jesus, "a
+light to lighten the Gentiles" (Luke 2. 32) made the symbolic use of
 lights almost inevitable. The date of the Feast of the Purification,
 February 2, was approximately that of the pagan _Amburbium_ or
 _Amburbale_, an early Roman procession of lustration which had taken
@@ -2502,7 +2535,7 @@ poet of the occasion, Fortunatus wrote three hymns for the reception of
 a relic believed to be of the true Cross, which was presented to
 Rhadegunda, his patron, by the Byzantine Emperor, Justin II and his wife
 Sophia, for the convent at Poitiers. As a final stage in the journey
-from Constantinople, the relic was borne in procession from Migné to
+from Constantinople, the relic was borne in procession from Mign� to
 Poitiers, accompanied by Euphronius, Bishop of Tours. On this day the
 hymn, _Vexilla regis prodeunt_, was first heard.[14] Two others, _Pange
 lingua_ and _Crux benedicta_ (see Chapter One) were devoted by
@@ -2510,11 +2543,11 @@ Fortunatus to the same theme of the Holy Cross, although it cannot be
 proved that they were sung in the same procession.
 
 The Resurrection hymn, _Tempora florigero rutilant distincta sereno_,
-“Season of luminous days, marked bright with the birth of flowers,”
+"Season of luminous days, marked bright with the birth of flowers,"
 (_Carm._ 3. 9), was originally written for the Easter baptismal rites
 celebrated by Felix, Bishop of Nantes (d. 582). It was a poem of 110
 lines or 55 elegiac couplets, from which the cento of 28 lines beginning
-_Salve festa dies_, “Hail thee, festival day,” was later selected for an
+_Salve festa dies_, "Hail thee, festival day," was later selected for an
 Easter processional.[15]
 
 The metrical models provided by _Pange lingua_ of the trochaic pattern
@@ -2534,7 +2567,7 @@ Italy.[17] The use of a processional hymn, however, is not as clearly
 indicated.
 
 It seems probable that the seventh century hymn, _Magnum salutis
-gaudium_ (_A. H._ 51. 73), “O great joy of salvation,” is one of the
+gaudium_ (_A. H._ 51. 73), "O great joy of salvation," is one of the
 earliest to be assigned for Palm Sunday. It is a simple rendering in the
 Ambrosian style, of the events recounted in the biblical narrative.[18]
 In the early centuries when the concept of a specific processional hymn
@@ -2554,10 +2587,10 @@ proper, were sometimes accompanied by hymns.[19]
 
 Perhaps the earliest hymn in use at a special ceremony, once more a
 selection from the hymnal, was _Audi, iudex mortuorum_ (_A. H._ 51. 80),
-“Hear Thou Judge of the dead,” sung on Holy Thursday at the consecration
+"Hear Thou Judge of the dead," sung on Holy Thursday at the consecration
 of the chrism.[20] The words _O redemptor, sume carmen temet
-concinentium_, “O Redeemer, accept the hymn of Thy people magnifying
-Thee,”[21] formed a refrain, a metrical feature which came to be the
+concinentium_, "O Redeemer, accept the hymn of Thy people magnifying
+Thee,"[21] formed a refrain, a metrical feature which came to be the
 unmistakable mark of the processional hymn.
 
 In this early period from the sixth to the tenth century, a new idea and
@@ -2599,7 +2632,7 @@ Other great festivals of the ecclesiastical year and of the saints were
 now observed with processional honors for which new hymns were written;
 special ceremonies also, were thus recognized. Hartmann wrote the
 elegiac hymn _Salve, lacteolo decoratum sanguine festum_ (_A. H._ 50.
-251), “Hail festival, graced with the blood of the Innocents,” for the
+251), "Hail festival, graced with the blood of the Innocents," for the
 Feast of the Holy Innocents. The processional hymns of Rabanus Maurus
 were heard at Nativity, Easter and possibly the Feast of the
 Purification. The dramatic spirit, always present in the true
@@ -2622,7 +2655,7 @@ R.   Christo nato, rege magno
   Since Christ is born, the mighty king,
     let the whole earth rejoice.
 
-Processional hymns for saints are represented by Radbert’s hymn honoring
+Processional hymns for saints are represented by Radbert's hymn honoring
 St. Gall,
 
 R.   Annua, sancte Dei, celebramus festa diei,
@@ -2642,9 +2675,9 @@ unique.
 The Sunday processions were sometimes accompanied by imposing hymns in
 the form of litanies. It should not be forgotten that the ancient
 Christian processions were, in great part, of this nature. Waldram,
-Hartmann and Radbert wrote such hymns but Hartmann’s was evidently a
-favorite, _Summus et omnipotens genitor, qui cuncta creasti_, “Mighty
-and omnipotent father, who hast created all things,” with the refrain,
+Hartmann and Radbert wrote such hymns but Hartmann's was evidently a
+favorite, _Summus et omnipotens genitor, qui cuncta creasti_, "Mighty
+and omnipotent father, who hast created all things," with the refrain,
 
 R.   Humili prece et sincera devotione
     Ad te clamantes semper exaudi nos. (_A. H._ 50. 253)
@@ -2663,19 +2696,19 @@ provided a beautiful _versus_ for this purpose,
     Gospel are borne.
 
 A _versus_ for the reception of the Eucharist was written by Radbert,
-_Laudes omnipotens, ferimus tibi dona colentes_ (_A. H._ 50. 239), “In
-reverence, Almighty, we bring our praises as gifts to Thee.” The
+_Laudes omnipotens, ferimus tibi dona colentes_ (_A. H._ 50. 239), "In
+reverence, Almighty, we bring our praises as gifts to Thee." The
 Blessing of the Font on Holy Saturday inspired his _Versus ad Descensum
 fontis_ (_A. H._ 50. 242-3). Among the ceremonies most characteristic of
 medieval piety was that of _Mandatum_ or foot-washing, commemorating the
-act of Jesus in washing his disciples’ feet, (_John_ 13; 1-15). The name
-“Maundy Thursday” is a modern survival of the ancient terminology.[24]
+act of Jesus in washing his disciples' feet, (_John_ 13; 1-15). The name
+"Maundy Thursday" is a modern survival of the ancient terminology.[24]
 The hymn associated with this rite appears first in Gaul in the eighth
 or ninth century and may have been current in Italy in monastic centers.
-The antiphon, _Ubi caritas et amor, Deus ibi est_, “Where charity is and
-love, God is there,” is at once the motive and refrain of this hymn,
-_Congregavit nos in unum Christi amor_ (_A. H._ 12. 24), “The love of
-Christ has united us,” which follows the scriptural account.[25]
+The antiphon, _Ubi caritas et amor, Deus ibi est_, "Where charity is and
+love, God is there," is at once the motive and refrain of this hymn,
+_Congregavit nos in unum Christi amor_ (_A. H._ 12. 24), "The love of
+Christ has united us," which follows the scriptural account.[25]
 
 The student must turn once more to the great monastic centers of the
 Germanic world for processional hymns honoring royalty. Visits of kings
@@ -2696,8 +2729,8 @@ of the coming of any royal visitor.
 
 Vatican manuscripts offer evidence of contemporary processions in Italy
 and Rome, the city of their origin. From this source is derived the
-processional hymn _Sancta Maria, quid est?_ (_A. H._ 23. 74), “Sancta
-Maria, what meaneth this?” written for the procession which marked the
+processional hymn _Sancta Maria, quid est?_ (_A. H._ 23. 74), "Sancta
+Maria, what meaneth this?" written for the procession which marked the
 eve of the Feast of the Assumption, about the year 1000. Specific
 directions for the route, the order of precedence and every detail of
 the ceremonial are available, while the hymn itself depicts the devotion
@@ -2732,8 +2765,8 @@ interpretation is obvious and inherent in the feast to be celebrated but
 in other cases he gives full play to his sense of the symbolic, a phase
 of contemporary thought already so characteristic of Adam of St. Victor
 and other writers on religious themes. Finally he declares that whatever
-else is suggested, “the true procession is a progress to the celestial
-country.” (_Ipsa vero processio, est via ad coelestem patriam._)[30] If
+else is suggested, "the true procession is a progress to the celestial
+country." (_Ipsa vero processio, est via ad coelestem patriam._)[30] If
 the fundamental concepts which entered into their origins be reviewed,
 medieval processions apparently carried with them the familiar ideas of
 supplication, of dramatic representation or of pilgrimage to sacred
@@ -2790,7 +2823,7 @@ Visitation,
     Qua Christi mater visitat Elizabeth. (_A. H._ 11. 51)
 
   Hail thee, festival day, blest day that is hallowed forever,
-    On which Christ’s mother visits Elizabeth.
+    On which Christ's mother visits Elizabeth.
 
 and the Assumption,
 
@@ -2802,8 +2835,8 @@ and the Assumption,
 
 A lengthy hymn of twenty stanzas for the Feast of the Purification which
 had been observed for so many centuries, appears in a twelfth or
-thirteenth century manuscript from Kremsmünster, _Laetetur omne
-saeculum_ (_A. H._ 4. 54), “Let every age rejoice.” The biblical scene
+thirteenth century manuscript from Kremsm�nster, _Laetetur omne
+saeculum_ (_A. H._ 4. 54), "Let every age rejoice." The biblical scene
 of the Presentation in the Temple is described and reference is made to
 the carrying of lighted candles.
 
@@ -2845,7 +2878,7 @@ of the Gospel appears in the twelfth and thirteenth centuries as a
 _conductus_ or _conductum_ which, in turn, is related to the
 _cantio_.[32] A _conductus_ for the festival of St. James of Campostella
 (_A. H._ 17. 199), illustrates the evolution of a minor type of
-processional hymn from Hartmann’s solemn _versus_, mentioned above, to
+processional hymn from Hartmann's solemn _versus_, mentioned above, to
 the festive style of the late medieval period. The recent study of the
 _conductus_ by Leonard Ellinwood reflects the growing interest of
 musicians in these forms, both secular and religious, which preceded the
@@ -2866,8 +2899,8 @@ in translation with the exception of the ageless hymns of Theodulphus
 and especially of Fortunatus whose processionals usurped the medieval
 field for over one thousand years and are still current to-day.
 
-(See Illustrative Hymns, XVII. _Salve festa dies_, “Hail thee, festival
-day.”)
+(See Illustrative Hymns, XVII. _Salve festa dies_, "Hail thee, festival
+day.")
 
 
 
@@ -2902,8 +2935,8 @@ Carolingian poets showed less vitality as poetical models. The
 liturgical hymn and the sequence are of prime importance in their
 metrical aspects but the meters of the _piae cantiones_ and other
 religious lyrics were also widely appropriated. The origin of rhyme is a
-related problem which in the opinion of W. B. Sedgwick “centers around
-the Christian hymn.”[1] Numerous publications by scholars who, like
+related problem which in the opinion of W. B. Sedgwick "centers around
+the Christian hymn."[1] Numerous publications by scholars who, like
 Sedgwick, have spoken with authority, bear witness to the general
 linguistic and literary interest attaching to these subjects of
 research.
@@ -2939,7 +2972,7 @@ example, are expanded to 576 lines, other hymns varying from 66 to 1140
 lines. It may have been possible in the more leisurely tempo of medieval
 life to render the martyr hymns of Prudentius in their entirety. A far
 more provocative suggestion makes them the starting point for the
-medieval saints’ legend of which illustrations exist in lengthy Latin
+medieval saints' legend of which illustrations exist in lengthy Latin
 poems and later, in vernacular verse.
 
 The contribution of hymns to the liturgical drama of the Church has been
@@ -2959,7 +2992,7 @@ The transition from Latin to vernacular languages took place as soon as
 the latter were sufficiently developed to produce Christian verse. The
 Gospels were rendered into Germanic rhymed verse in the ninth century by
 Otfried the Frank who inserted a hymn of ten stanzas as a poetic version
-of the opening of St. John’s Gospel. It is written in seven-syllable
+of the opening of St. John's Gospel. It is written in seven-syllable
 couplets with four or six to a stanza.[8] Otfried is said to have been
 influenced by Rabanus Maurus and with good reason since the latter was a
 recognized leader in mediating Latin patristic and other writings to the
@@ -2967,7 +3000,7 @@ Germanic world of his day.
 
 Otfried was the first of many medieval poets whose religious lyrics in
 the vernacular, often revealing the inspiration of the Latin hymn, have
-been preserved. Their verse appears in Wackernagel’s great collection in
+been preserved. Their verse appears in Wackernagel's great collection in
 which he has edited 1448 specimens from the time of Otfried to that of
 Hans Sachs.[9]
 
@@ -2991,7 +3024,7 @@ strophic system and rhythmic model of the Germans, built the couplet and
 rhyme, already existing in hymns, into a characteristic structure which
 proved to be easily transferable to vernacular uses. It has been
 asserted that the lyric poetry of the Middle Ages, in German, French,
-Provençal and English was reborn in this conquest of the vernacular by
+Proven�al and English was reborn in this conquest of the vernacular by
 the Latin sequence.[12] At the same time, the possible influence of the
 vernacular over the Latin must not be ignored. There is a resemblance,
 for instance, between the narrative elements of sequences written in
@@ -3018,7 +3051,7 @@ them are devoted to the praise of the Virgin. Occasionally, a Latin
 sequence has been freely translated, paraphrased or elaborated.
 
 The Swedish vernacular is represented by the patriotic poem of Bishop
-Thomas of Strängnäs, who, in the fourteenth century, wrote in praise of
+Thomas of Str�ngn�s, who, in the fourteenth century, wrote in praise of
 the national hero, Engelbrekt. Metrical and stanza form are both of the
 hymnal type.[15]
 
@@ -3029,12 +3062,12 @@ places of origin for vernacular lyrics. A close connection has been
 traced between the sequence and the French romantic lyric, especially
 the _lai_, a connection amply illustrated and tabulated for the
 convenience of the student.[16] More familiar, perhaps, than the _lais_
-are the appealing lines of François Villon, “Dame des cieulx, regente
-terrienne,” which possesses all the charm of the Marian lyric at its
+are the appealing lines of Fran�ois Villon, "Dame des cieulx, regente
+terrienne," which possesses all the charm of the Marian lyric at its
 best.
 
 About the year 1270, Alfonso X of Castile made a collection of 400 poems
-in the Galician-Portuguese dialect, the _Cántigas de Santa María_ around
+in the Galician-Portuguese dialect, the _C�ntigas de Santa Mar�a_ around
 which a considerable literature has grown up. All are devotional in
 subject matter. Alfonso X was a literary patron. Ramon Lull (c. 1315)
 was himself a poet who wrote in the Catalan tongue although his mystical
@@ -3061,8 +3094,8 @@ religious vernacular lyric, among them Lorenzo di Medici and Savonarola,
 (1452-1498), better known as the Florentine preacher whose passionate
 denunciations of the evils of his day brought him into conflict with the
 Church and resulted in his execution. His _Laude al crucifisso_ has been
-translated in part by Jane F. Wilde as a hymn, “Jesus, refuge of the
-weary.”
+translated in part by Jane F. Wilde as a hymn, "Jesus, refuge of the
+weary."
 
 The English religious lyrics of the thirteenth, fourteenth and fifteenth
 centuries may be read with enjoyment in the collections of Carleton
@@ -3077,8 +3110,8 @@ poetic themes are varied but Marian verse appears in many forms: hymns,
 laments, and rhymed petition. Incidentally, a knowledge of the Latin
 original must be presupposed on the part of the English laity of this
 period. Chaucer wrote for the layman who must have understood his use of
-the sequence _Angelus ad Virginem_ in the “Miller’s Tale” and the
-sequence _Alma redemptoris mater_ in the “Prioress’ Tale.”
+the sequence _Angelus ad Virginem_ in the "Miller's Tale" and the
+sequence _Alma redemptoris mater_ in the "Prioress' Tale."
 
 English macaronic verse best reveals the Latin hymn. Over and over
 again, Latin quotations are used, sometimes embedded in the text,
@@ -3119,8 +3152,8 @@ Frenchmen Jean-Baptiste de Santuil and his brothers Claude and Baptiste.
 Freshly inspired by classical studies, the new hymn writers repudiated
 medieval ruggedness and stylistic neglect in favor of the smooth and
 finished Latinity affected by contemporary poets. From the substantial
-body of verse produced in these centuries, _Adeste fideles_, “O come,
-all ye faithful,” has proved a favorite. Sometimes classified as a hymn,
+body of verse produced in these centuries, _Adeste fideles_, "O come,
+all ye faithful," has proved a favorite. Sometimes classified as a hymn,
 sometimes as a carol, it originated in the English colony at Douay about
 the year 1740, from the pen of John Francis Wade.[21]
 
@@ -3218,9 +3251,9 @@ their common heritage.
   Lux lucis et fons luminis,
   Dies dierum illuminans,
 
-1.   O Splendor of God’s glory bright,
+1.   O Splendor of God's glory bright,
   O Thou that bringest light from light,
-  O Light of light, light’s living spring,
+  O Light of light, light's living spring,
   O Day, all days illumining;
 
 2.   Verusque sol illabere,
@@ -3230,12 +3263,12 @@ their common heritage.
 
 2.   O Thou true Sun, on us thy glance
   Let fall in royal radiance,
-  The Spirit’s sanctifying beam
+  The Spirit's sanctifying beam
   Upon our earthly senses stream.
 
-3.   Votis vocemus et Patrem—
+3.   Votis vocemus et Patrem--
   Patrem perennis gloriae,
-  Patrem potentis gratiae—
+  Patrem potentis gratiae--
   Culpam releget lubricam,
 
 3.   The Father, too, our prayers implore,
@@ -3248,7 +3281,7 @@ their common heritage.
   Casus secundet asperos,
   Donet gerendi gratiam.
 
-4.   To guide whate’er we nobly do,
+4.   To guide whate'er we nobly do,
   With love all envy to subdue,
   To make all-fortune turn to fair,
   And give us grace our wrongs to bear.
@@ -3261,7 +3294,7 @@ their common heritage.
 5.   Our mind be in his keeping placed,
   Our body true to him and chaste,
   Where only Faith her fire shall feed
-  To burn the tares of Satan’s seed.
+  To burn the tares of Satan's seed.
 
 6.   Christusque nobis sit cibus,
   Potusque noster sit fides;
@@ -3270,7 +3303,7 @@ their common heritage.
 
 6.   And Christ to us for food shall be,
   From him our drink that welleth free,
-  The Spirit’s wine, that maketh whole,
+  The Spirit's wine, that maketh whole,
   And mocking not, exalts the soul.
 
 7.   Laetus dies hic transeat,
@@ -3315,7 +3348,7 @@ their common heritage.
   Ut nos lavaret crimine,
   Manavit unda, sanguine.
 
-2.   The lance’s edge hath pierced His side,
+2.   The lance's edge hath pierced His side,
   O look on Him that for our good
   Cleansed us of the stain of sin,
   Washed out with water and with blood.
@@ -3357,7 +3390,7 @@ their common heritage.
 
 6.   Thy wood is all a sweet perfume,
   Thou art like nectar very sweet;
-  Rejoicing in thy fruit thou mak’st
+  Rejoicing in thy fruit thou mak'st
   A perfect triumph more complete.
 
 7.   Salve ara, salve victima
@@ -3395,7 +3428,7 @@ their common heritage.
   Laetis canamus mentibus.
 
 1.   The eternal gifts of Christ the King,
-  The Martyrs’ glorious deeds we sing;
+  The Martyrs' glorious deeds we sing;
   And while due hymns of praise we pay,
   Our thankful hearts cast grief away.
 
@@ -3415,7 +3448,7 @@ their common heritage.
   Vitam beatam possident.
 
 3.   The terrors of the world despised,
-  The body’s torments lightly prized,
+  The body's torments lightly prized,
   By one brief space of death and pain
   Life everlasting they obtain.
 
@@ -3444,7 +3477,7 @@ their common heritage.
   Perfecta Christi caritas
   Mundi triumphat principem.
 
-6.   ’Twas thus the yearning faith of saints,
+6.   'Twas thus the yearning faith of saints,
   The unconquered hope that never faints,
   The love of Christ that knows not shame,
   The Prince of this world overcame.
@@ -3454,7 +3487,7 @@ their common heritage.
   Exultat in his spiritus;
   Caelum repletur gaudiis.
 
-7.   In these the Father’s glory shone;
+7.   In these the Father's glory shone;
   In these the will of God the Son;
   In these exults the Holy Ghost;
   Through these rejoice the heavenly host.
@@ -3515,14 +3548,14 @@ their common heritage.
     Alleluia perenne.
 
 1.   Sing alleluia forth in duteous praise,
-  Ye citizens of heav’n; O sweetly raise
+  Ye citizens of heav'n; O sweetly raise
     An endless alleluia.
 
 2.   Hinc vos perpetui luminis accola,
   Assumet resonans hymniferis choris,
     Alleluia perenne.
 
-2.   Ye powers who stand before th’ Eternal Light,
+2.   Ye powers who stand before th' Eternal Light,
   In hymning choirs re-echo to the height
     An endless alleluia.
 
@@ -3580,7 +3613,7 @@ their common heritage.
 3.   Hoc sacramento corporis et sanguinis
   Omnes exuti ab inferni faucibus.
 
-3.   Salvation’s Giver, Christ the Only Son;
+3.   Salvation's Giver, Christ the Only Son;
   By that His Cross and Blood the victory won.
 
 4.   Dator salutis, Christus filius Dei,
@@ -3654,7 +3687,7 @@ their common heritage.
 2.   Ave was the token
   By the Angel spoken:
   Peace on earth it telleth,
-  Eva’s name re-spelleth.
+  Eva's name re-spelleth.
 
 3.   Solve vincla reis,
   Profer lumen caecis,
@@ -3746,7 +3779,7 @@ their common heritage.
 
 4.   Thou didst within the narrow womb discern
   The King in that his chamber lie concealed;
-  Each parent her Son’s dignity in turn
+  Each parent her Son's dignity in turn
       To each revealed.
 
 5.   Sit decus Patri, genitaeque Proli,
@@ -3754,7 +3787,7 @@ their common heritage.
   Spiritus semper, Deus unus, omni
       Temporis aevo.
 
-5.   Now whilst Heaven’s citizens proclaim thy praise
+5.   Now whilst Heaven's citizens proclaim thy praise
   God ever One and yet coequal Three
   For pardon we our suppliant voices raise
       Redeemed by Thee!
@@ -3780,7 +3813,7 @@ their common heritage.
   Et spiritalis unctio.
 
 2.   O gift of God, thine is the sweet
-  Consoling name of Paraclete—
+  Consoling name of Paraclete--
   And spring of life and fire and love
   And unction flowing from above.
 
@@ -3790,8 +3823,8 @@ their common heritage.
   Sermone ditas guttura.
 
 3.   The mystic sevenfold gifts are thine,
-  Finger of God’s right hand divine;
-  The Father’s promise sent to teach
+  Finger of God's right hand divine;
+  The Father's promise sent to teach
   The tongue a rich and heavenly speech.
 
 4.   Accende lumen sensibus,
@@ -3832,7 +3865,7 @@ their common heritage.
 7.   To Sire and Son be praises meet,
   And to the Holy Paraclete;
   And may Christ send us from above
-  That Holy Spirit’s gift of love.
+  That Holy Spirit's gift of love.
 
 8.   Sit laus Patri cum Filio,
   Sancto simul Paraclito,
@@ -3873,7 +3906,7 @@ their common heritage.
 3.   In tortures, great and cruel pain
   Thou didst with thy right hand sustain
   Thy servant, who with steadfast heart
-  Bore the tormentor’s every art.
+  Bore the tormentor's every art.
 
 4.   Huius, adclines, Domine,
   Te deprecamur, precibus,
@@ -3881,7 +3914,7 @@ their common heritage.
   Celsa dona fastigia.
 
 4.   Thy gracious ear, O Christ divine,
-  Unto thy servant’s prayer incline,
+  Unto thy servant's prayer incline,
   To whom thy fairest gifts are given
   Within the gracious halls of heaven.
 
@@ -3976,7 +4009,7 @@ their common heritage.
 13.   Apostolos confortasti, uti tropaeum Christi per totum mundum
               veherent.
 
-13.   Thou didst confirm the Apostles, so that they shall bear Christ’s
+13.   Thou didst confirm the Apostles, so that they shall bear Christ's
               glorious trophy through the whole world.
 
 14.   Quando machinam per verbum suum fecit Deus caeli, terrae, marium,
@@ -4072,7 +4105,7 @@ their common heritage.
     iubilant altum
     _Alleluia_.
 
-5.   The planets glitt’ring on their heavenly way,
+5.   The planets glitt'ring on their heavenly way,
   The shining constellations, join, and say
           Alleluia.
 
@@ -4111,7 +4144,7 @@ their common heritage.
     _Alleluia_.
 
 8.   First let the birds, with painted plummage gay,
-  Exalt their great Creator’s praise, and say
+  Exalt their great Creator's praise, and say
           Alleluia.
 
 9.   Ast illinc respondeant
@@ -4120,7 +4153,7 @@ their common heritage.
     _Alleluia_.
 
 9.   Then let the beasts of earth, with varying strain,
-  Join in Creation’s Hymn, and cry again
+  Join in Creation's Hymn, and cry again
           Alleluia.
 
 10.   Istinc montium
@@ -4156,7 +4189,7 @@ their common heritage.
 13.   This is the strain, the eternal strain, the Lord of all things
               loves:
           Alleluia.
-  This is the song, the heav’nly song, that Christ Himself approves:
+  This is the song, the heav'nly song, that Christ Himself approves:
           Alleluia.
 
 14.   Nunc omne genus
@@ -4165,14 +4198,14 @@ their common heritage.
 
 14.   Wherefore we sing, both heart and voice awaking,
           Alleluia.
-  And children’s voices echo, answer making,
+  And children's voices echo, answer making,
           Alleluia.
 
 15.   Et creatori
   grates frequentans consonet
     _Alleluia_.
 
-15.   Now from all men be outpour’d
+15.   Now from all men be outpour'd
   Alleluia to the Lord;
   With Alleluia evermore
   The Son and Spirit we adore.
@@ -4223,10 +4256,10 @@ their common heritage.
 
 1.   Yesterday, with exultation
   Joined the world in celebration
-    Of her promis’d Saviour’s birth;
+    Of her promis'd Saviour's birth;
   Yesterday the Angel nation
-  Pour’d the strains of jubilation
-    O’er the Monarch born on earth.
+  Pour'd the strains of jubilation
+    O'er the Monarch born on earth.
 
 2.   Protomartyr et Levita,
   Clarus fide, clarus vita,
@@ -4235,11 +4268,11 @@ their common heritage.
   Et triumphans insultavit
   Stephanus incredulis.
 
-2.   But to-day, o’er death victorious,
+2.   But to-day, o'er death victorious,
   By His faith and actions glorious,
-    By His miracles renown’d,
+    By His miracles renown'd,
   Dared the Deacon Protomartyr
-  Earthly life for Heav’n to barter,
+  Earthly life for Heav'n to barter,
     Faithful midst the faithless found.
 
 3.   Fremunt ergo tanquam ferae,
@@ -4266,8 +4299,8 @@ their common heritage.
 4.   Forward, champion, in thy quarrel!
   Certain of a certain laurel,
     Holy Stephen, persevere!
-  Perjur’d witnesses confounding
-  Satan’s Synagogue astounding
+  Perjur'd witnesses confounding
+  Satan's Synagogue astounding
     By thy doctrine true and clear.
 
 5.   Testis tuus est in caelis,
@@ -4279,7 +4312,7 @@ their common heritage.
 
 5.   Lo! in Heaven thy Witness liveth:
   Bright and faithful proof He giveth
-    Of His Martyr’s blamelessness:
+    Of His Martyr's blamelessness:
   Thou by name a Crown impliest;
   Meetly then in pangs thou diest
     For the Crown of Righteousness!
@@ -4292,10 +4325,10 @@ their common heritage.
   Dat vitae primordia.
 
 6.   For a crown that fadeth never,
-  Bear the torturer’s brief endeavour;
+  Bear the torturer's brief endeavour;
     Victory waits to end the strife:
-  Death shall be thy birth’s beginning,
-  And life’s losing be the winning
+  Death shall be thy birth's beginning,
+  And life's losing be the winning
     Of the true and better Life.
 
 7.   Plenus Sancto Spiritu
@@ -4308,7 +4341,7 @@ their common heritage.
 7.   Whom the Holy Ghost endueth,
   Whom celestial sight embueth,
     Stephen penetrates the skies;
-  There God’s fullest glory viewing
+  There God's fullest glory viewing
   There his victor strength renewing
     For his near reward he sighs.
 
@@ -4321,7 +4354,7 @@ their common heritage.
 
 8.   See, as Jewish foes invade thee,
   See how Jesus stands to aid thee!
-    Stands to guard His champion’s death:
+    Stands to guard His champion's death:
   Cry that opened Heaven is shown thee:
   Cry that Jesus waits to own thee:
     Cry it with thy latest breath!
@@ -4333,9 +4366,9 @@ their common heritage.
   Vestes lapidantium,
   Lapidans in omnibus.
 
-9.   On his Saviour’s aid relying,
+9.   On his Saviour's aid relying,
   Sweet to him the pain of dying,
-    ’Neath the fearful rain of stone:
+    'Neath the fearful rain of stone:
   Paul amidst the stoning throng,
   Guarding garments, makes the wrong
     Of the angry Jews his own.
@@ -4479,7 +4512,7 @@ their common heritage.
 2.   Wondrous theme of mortal singing,
   Living bread and bread life-bringing,
     Sing we on this joyful day:
-  At the Lord’s own table given
+  At the Lord's own table given
   To the twelve as bread from heaven,
     Doubting not we firmly say.
 
@@ -4504,8 +4537,8 @@ their common heritage.
   Umbra cedit veritati,
   Noctem lux eliminat.
 
-4.   At the new King’s sacred table,
-  The new law’s new pasch is able
+4.   At the new King's sacred table,
+  The new law's new pasch is able
     To succeed the ancient rite:
   Old to new its place hath given,
   Truth has far the shadows driven,
@@ -4518,10 +4551,10 @@ their common heritage.
   Panem, vinum in salutis
   Consecramus hostiam.
 
-5.   And as He hath done and planned it—
-  “Do this”—hear His love command it,
-    “For a memory of me.”
-  Learnèd, Lord, in thy own science,
+5.   And as He hath done and planned it--
+  "Do this"--hear His love command it,
+    "For a memory of me."
+  Learn�d, Lord, in thy own science,
   Bread and wine, in sweet compliance,
     As a Host we offer Thee.
 
@@ -4533,7 +4566,7 @@ their common heritage.
   Praeter rerum ordinem.
 
 6.   Thus in faith the Christian heareth:
-  That Christ’s flesh as bread appeareth,
+  That Christ's flesh as bread appeareth,
     And as wine His precious blood:
   Though we feel it not nor see it,
   Living faith that doth decree it
@@ -4548,9 +4581,9 @@ their common heritage.
 
 7.   Lo! beneath the species dual
   (Signs not things), is hid a jewel
-    Far beyond creation’s reach!
+    Far beyond creation's reach!
   Though His flesh as food abideth,
-  And His blood as drink—He hideth
+  And His blood as drink--He hideth
     Undivided under each.
 
 8.   A sumente non concisus,
@@ -4594,8 +4627,8 @@ their common heritage.
   Doubt not what the Lord hath spoken:
   In each part the same love-token,
     The same Christ, our hearts adore:
-  For no power the thing divideth—
-  ’Tis the symbols He provideth,
+  For no power the thing divideth--
+  'Tis the symbols He provideth,
   While the Saviour still abideth
     Undiminished as before.
 
@@ -4609,12 +4642,12 @@ their common heritage.
   Datur manna patribus.
 
 11.   Hail, angelic bread of heaven,
-  Now the pilgrim’s hoping-leaven,
+  Now the pilgrim's hoping-leaven,
   Yea, the bread to children given
     That to dogs must not be thrown:
   In the figures contemplated,
-  ’Twas with Isaac immolated,
-  By the Lamb ’twas antedated,
+  'Twas with Isaac immolated,
+  By the Lamb 'twas antedated,
     In the manna it was known.
 
 12.   Bone pastor, panis vere,
@@ -4629,7 +4662,7 @@ their common heritage.
   Fac sanctorum civium.
 
   12, O Good Shepherd, still confessing
-  Love, in spite of our transgressing,—
+  Love, in spite of our transgressing,--
   Here Thy blessed food possessing,
   Make us share Thine every blessing
     In the land of life and love:
@@ -4655,9 +4688,9 @@ their common heritage.
 1.   By the Cross her vigil keeping
   Stands the Queen of sorrows weeping,
     While her son in torment hangs;
-  Now she feels—O heart afflicted
-  By the sword of old predicted!—
-    More than all a mother’s pangs.
+  Now she feels--O heart afflicted
+  By the sword of old predicted!--
+    More than all a mother's pangs.
 
 2.   O quam tristis et afflicta
   Fuit illa benedicta
@@ -4668,10 +4701,10 @@ their common heritage.
 
 2.   Sad and heavy stands beside him
   She who once had magnified him
-    One—begotten, only—born;
+    One--begotten, only--born;
   While she sees that rich atoning,
   Long the moaning, deep the groaning
-    Of her mother—heart forlorn.
+    Of her mother--heart forlorn.
 
 3.   Quis est homo, qui non fleret,
   Matrem Christi si videret,
@@ -4680,10 +4713,10 @@ their common heritage.
   Piam matrem contemplari
   Dolentem cum filio?
 
-3.   Who Christ’s Mother contemplating
+3.   Who Christ's Mother contemplating
   In such bitter anguish waiting,
     Has no human tears to shed?
-  Who would leave Christ’s Mother, sharing
+  Who would leave Christ's Mother, sharing
   All the pain her Son is bearing,
     By those tears uncomforted?
 
@@ -4694,7 +4727,7 @@ their common heritage.
   Morientem, desolatum,
   Dum emisit spiritum.
 
-4.   Victim-priest of Jewry’s nation,
+4.   Victim-priest of Jewry's nation,
   There he hangs in expiation;
     Scourge and nail have had their will;
   Earth and heaven his cause forsaking,
@@ -4726,7 +4759,7 @@ their common heritage.
   Those five wounds of his implanted
     In my breast I fain would see;
   Love exceeding hangs there bleeding,
-  My cause pleading, my love needing—
+  My cause pleading, my love needing--
     Bid him share his cross with me.
 
 7.   Fac me vere tecum flere,
@@ -4755,7 +4788,7 @@ their common heritage.
     In thy bitterness repel;
   At thy side his livery wearing,
   His cross bearing, his death sharing,
-    Of these wounds the beads I’ll tell.
+    Of these wounds the beads I'll tell.
 
 9.   Fac me plagis vulnerari,
   Cruce hac inebriari,
@@ -4778,8 +4811,8 @@ their common heritage.
   Fac, ut animae donetur
   Paradisi gloria.
 
-10.   Jesus, when earth’s shadows leave me,
-  Through thy Mother’s prayers receive me
+10.   Jesus, when earth's shadows leave me,
+  Through thy Mother's prayers receive me
     With the palm of victory;
   When my body lies forsaken
   Let my ransomed soul awaken
@@ -4922,16 +4955,16 @@ their common heritage.
 [2.] P. Batiffol, _Historie du Breviare romain_, translated by A. M. Y.
     Bayley (London, 1912), chap. I.
 
-[3.] Dom A. Wilmart, “Le Psautier de la Reine,” (_Cod. Vat. Reg. II_),
+[3.] Dom A. Wilmart, "Le Psautier de la Reine," (_Cod. Vat. Reg. II_),
     _Revue Benedictine XXVIII_ (1911) 376 ff.
 
 [4.] Walpole, _Early Latin Hymns_, (ch. 1, note 3), xi-xiv.
 
 [5.] Laodicea, c. 364, Canon 59. See G. D. Mansi, _Sacrorum
-    conciliorum—collectio_ (Florence, Venet. et Par., 1763) ii, 573;
+    conciliorum--collectio_ (Florence, Venet. et Par., 1763) ii, 573;
     Braga, 563, Mansi ix, 778.
 
-[6.] H. F. Muller, “Pre-History of the Medieval Drama,” _Zeitschrift f.
+[6.] H. F. Muller, "Pre-History of the Medieval Drama," _Zeitschrift f.
     romanische Philologie_ 44 (1924) 544-575.
 
 [7.] Tours, 567, Mansi xiv, 803.
@@ -4945,12 +4978,12 @@ their common heritage.
 
 [10.] See _A. H._ (_Analecta Hymnica Medii Aevi_) 51.24-41, notes. The
     hymns excepted are nos. 23-30; 34-40; J. Julian, _Dictionary of
-    Hymnology_. _Gregory I., St., Pope_; C. Blume, “Gregor der Grosse
-    als Hymnendichter,” _Stimmen aus Maria-Laach_, 1908, 269 ff.
+    Hymnology_. _Gregory I., St., Pope_; C. Blume, "Gregor der Grosse
+    als Hymnendichter," _Stimmen aus Maria-Laach_, 1908, 269 ff.
 
-[11.] H. LeClercq, _L’Espagne chrétienne_ (Paris, 1906) 304-5.
+[11.] H. LeClercq, _L'Espagne chr�tienne_ (Paris, 1906) 304-5.
 
-[12.] Migne, _PL_ 80, 642-700, Braulio’s Letters.
+[12.] Migne, _PL_ 80, 642-700, Braulio's Letters.
 
 [13.] IV Council of Toledo, 633, Canon 2, Mansi x, 616; Canon 13, Mansi
     x, 622-3. _Sicut igitur orationes, ita et hymnos in laudem Dei
@@ -4958,7 +4991,7 @@ their common heritage.
     Hispaniaque celebret: excommunicatione plectendi, qui hymnos
     rejicere fuerint ausi._
 
-[14.] See R. E. Messenger, “The Mozarabic Hymnal,” _TAPhA_ 75 (1944)
+[14.] See R. E. Messenger, "The Mozarabic Hymnal," _TAPhA_ 75 (1944)
     103-126.
 
 [15.] _The Irish Liber Hymnorum_, edited by J. H. Bernard and R.
@@ -4989,7 +5022,7 @@ their common heritage.
 [1.] J. M. Neale and G. H. Forbes, _The Ancient Liturgies of the
     Gallican Church_ (Burntisland, 1855) p. v.
 
-[2.] P. Jaffé, _Regesta Pontificum Romanorum_ (Lipsiae, 1885-8) 2473
+[2.] P. Jaff�, _Regesta Pontificum Romanorum_ (Lipsiae, 1885-8) 2473
     (1900).
 
 [3.] _Monumenta Germaniae Historica, Legum sectio_, II, _Capitularia
@@ -5005,26 +5038,26 @@ their common heritage.
     _Pippini capitulare Italicum_, 801-810.
 
 [4.] _MGH, Legum sectio_, II, _Capitularia Regum Francorum_, I,
-    _Epistola generalis_, no. 30, p. 80; P. Jaffé, _Bibliotheca Rerum
+    _Epistola generalis_, no. 30, p. 80; P. Jaff�, _Bibliotheca Rerum
     Germanicarum_, vol. IV, _Monumenta Carolina_ (Berlin, 1867) 139,
     140.
 
-[5.] Dom R. Van Doren, _Étude sur l’influence musicale de l’abbaye de
+[5.] Dom R. Van Doren, _�tude sur l'influence musicale de l'abbaye de
     Saint-Gall_ (Louvain, 1925) ch. vi, Metz.
 
-[6.] E. Mühlbacher, _Deutsche Geschichte unter den Karolingern_
-    (Stuttgart, 1896) 211; Jaffé, _Monumenta Carolina_, 358ff.
+[6.] E. M�hlbacher, _Deutsche Geschichte unter den Karolingern_
+    (Stuttgart, 1896) 211; Jaff�, _Monumenta Carolina_, 358ff.
 
 [7.] E. Bishop, _Liturgica Historica_ (Oxford, 1918) 49-55.
 
 [8.] A. Fortescue, _The Mass_ (London, 1914) 183.
 
-[9.] In _Monumenta Germaniae Historica—Poetarum latinorum medii aevi_,
+[9.] In _Monumenta Germaniae Historica--Poetarum latinorum medii aevi_,
     vol. iv, edited by P. von Winterfeld (Berlin, 1923).
 
-[10.] W. Turner, “Irish Teachers in the Carolingian Revival of
-    Learning,” _Cath. Un. Bulletin_, XIII (Washington, 1907) 384-5; J.
-    J. O’Kelly, _Ireland: Elements of her Early Story_ (Dublin, 1921)
+[10.] W. Turner, "Irish Teachers in the Carolingian Revival of
+    Learning," _Cath. Un. Bulletin_, XIII (Washington, 1907) 384-5; J.
+    J. O'Kelly, _Ireland: Elements of her Early Story_ (Dublin, 1921)
     ch. viii, _Early Irish on the Continent_.
 
 [11.] Einhard, _Vita Caroli_, 21.
@@ -5040,18 +5073,18 @@ their common heritage.
 
 [15.] _Annales Laurissenses, anno 757_ (_MGH, SS_, I, 140).
 
-[16.] _Jaffé, Regesta_, 2346 (1799); Notker Balbulus, _Epistolae_
+[16.] _Jaff�, Regesta_, 2346 (1799); Notker Balbulus, _Epistolae_
     (_MPL_, 131, 1172); _Gesta Caroli_, II, 7.
 
 [17.] F. H. Dudden, _Gregory the Great_ (ch. 2, note 9) I, ch. _VI
     Gregory at Constantinople_.
 
-[18.] P. Wagner, “Morgen- und Abendland in der Musikgeschichte,”
+[18.] P. Wagner, "Morgen- und Abendland in der Musikgeschichte,"
     _Stimmen der Zeit_, Bd. 114 (1927) 138.
 
-[19.] Clark, _The Abbey of St. Gall etc._, 112; C. Diehl, _Manuel d’Art
+[19.] Clark, _The Abbey of St. Gall etc._, 112; C. Diehl, _Manuel d'Art
     Byzantin_ (Paris, 1910) 359-360, 362-3; M. Hauttmann, _Die Kunst des
-    frühen Mittelalters_ (Berlin, 1929) 51-62; J. Strzygowski, _Origin
+    fr�hen Mittelalters_ (Berlin, 1929) 51-62; J. Strzygowski, _Origin
     of Christian Church Art_ (Oxford, 1923) 84.
 
 [20.] _Anal. Hymn._, 51, _Introduction_, xvii-xix; extended lists of the
@@ -5065,25 +5098,25 @@ their common heritage.
 [23.] Walpole, _ibid_, xii; W. H. Frere, Introduction to _Hymns Ancient
     and Modern Historical Edition_ (London, 1909); Wilmart, _Le Psautier
     de la Reine etc_., 362-3; F. J. E. Raby, _Christian Latin Poetry_
-    (Oxford, 1927) 38-41. See also R. E. Messenger, “Whence the Ninth
-    Century Hymnal?,” _TAPhA 69_ (1938) 446-464.
+    (Oxford, 1927) 38-41. See also R. E. Messenger, "Whence the Ninth
+    Century Hymnal?," _TAPhA 69_ (1938) 446-464.
 
 [24.] Gesta Caroli, I, 10; Einhard, _Vita Caroli_, edited by Garrod and
     Mowat (Oxford, 1915), Appendix, p. xxxvii.
 
 [25.] Heimbucher, _Die Orden und Congregationen_ etc., vol. I, 235,
-    237-9; _Jahrbücher der deutschen Geschichte_ (Berlin & Leipzig,
+    237-9; _Jahrb�cher der deutschen Geschichte_ (Berlin & Leipzig,
     1866-1902), _Geschichte des Ostfrankischen Reichs_, vol. II, 39, 42,
     46.
 
 [26.] Alcuin, _De psalmorum usu_ (_MPL_, 101), _Officia per ferias MPL_,
     101, _Epistolae_ 84, 94, 164, 227 (_MPL_, 101): Rabanus Maurus, _De
-    clericis institutés_, II, 49 (_MPL_, 107, 362): Amalarius of Metz,
+    clericis institut�s_, II, 49 (_MPL_, 107, 362): Amalarius of Metz,
     _De officiis divinis_ (continuation) in J. Mabillon, _Vetera
     Analecta_ (Paris, 1723) 99; Walafrid Strabo, _De ecclesiasticarum
     rerum exordiis_ etc., ch. xxv (_MPL_, 114, 952ff.).
 
-[27.] H. De Boor, _Die deutsche Literatur_ 770-1170 (München, 1949) 21.
+[27.] H. De Boor, _Die deutsche Literatur_ 770-1170 (M�nchen, 1949) 21.
 
 [28.] P. Batiffol, _History of the Roman Breviary_ (London, 1912) 143-4.
 
@@ -5092,13 +5125,13 @@ their common heritage.
 [30.] Translation of first line, J. M. Neale.
 
 [31.] Dom P. B. Gams, _Die Kirchengeschichte von Spanien_ (Regensburg,
-    1862-1879) II, Pt. 2, 302, 326-9; Z. García Villada, _Historia
-    eclesiástica de España_ (Madrid, 1929-36) V, 85.
+    1862-1879) II, Pt. 2, 302, 326-9; Z. Garc�a Villada, _Historia
+    eclesi�stica de Espa�a_ (Madrid, 1929-36) V, 85.
 
-[32.] De Urbel, “Los himnos mozárabes,” _Revista ecles. Silos_ 58 (1927)
+[32.] De Urbel, "Los himnos moz�rabes," _Revista ecles. Silos_ 58 (1927)
     56-61.
 
-[33.] E. Bishop, “Spanish Symptoms,” _Liturgica Historica_ (Oxford,
+[33.] E. Bishop, "Spanish Symptoms," _Liturgica Historica_ (Oxford,
     1918) 168.
 
 [34.] L. Wiener, _Contributions toward a History of Arabico-Gothic
@@ -5127,28 +5160,28 @@ their common heritage.
     This book contains an excellent standard account of the musical
     aspect of the sequence.
 
-[5.] G. Schnürer, _Kirche und Kultur im Abendland_ (Paderborn, 1926) II,
+[5.] G. Schn�rer, _Kirche und Kultur im Abendland_ (Paderborn, 1926) II,
     88.
 
-[6.] W. Christ, “Über die Bedeutung von Hirmos, etc.,” _Sitzungberichte
-    der kön. bay. Akad. der Wissenschaft zu München_, II (1870) 89f.
+[6.] W. Christ, "�ber die Bedeutung von Hirmos, etc.," _Sitzungberichte
+    der k�n. bay. Akad. der Wissenschaft zu M�nchen_, II (1870) 89f.
 
-[7.] A. Gastoué, “Les Types byzantins de la Sequence,” _Tribune de
+[7.] A. Gastou�, "Les Types byzantins de la Sequence," _Tribune de
     Saint-Gervais_, Dec. 1922, 1, 2.
 
 [8.] Frere, _Introduction, supra_, xxiv.
 
-[9.] L. Gautier, _Histoire de la poésie liturgique au Moyen âge_ (Paris,
+[9.] L. Gautier, _Histoire de la po�sie liturgique au Moyen �ge_ (Paris,
     1886) 1.
 
-[10.] A. Gastoué, “Les Origines liturgiques de la séquence,” _Tribune de
+[10.] A. Gastou�, "Les Origines liturgiques de la s�quence," _Tribune de
     Saint-Gervais_, June, 1922. See also Wetzer and Welte,
     _Kirchenlexicon, Sequenzen_: an important article.
 
 [11.] Amalarius, _De ecclesiasticis officiis_, III, 16 (_MPL_, 105,
     1123).
 
-[12.] J. Ottenwälder, “Griechisch-byzantinische Einflüsse,” _Theol.
+[12.] J. Ottenw�lder, "Griechisch-byzantinische Einfl�sse," _Theol.
     Quartalschr_. XCVII (1915), 564-7.
 
 [13.] Reese, _Music in the Middle Ages, supra_, 133.
@@ -5157,7 +5190,7 @@ their common heritage.
     _Introduction_, 14, 15.
 
 [15.] The earliest manuscript is _Antiphonale missarum S. Gregorii_,
-    codex 239 of Laon; see _Paléographie musicale_, X. A. Gastoué, _Les
+    codex 239 of Laon; see _Pal�ographie musicale_, X. A. Gastou�, _Les
     Origines du Chant Romain_ (Paris, 1907) 250f.
 
 [16.] Wetzer und Welte, _supra, Sequenzen_.
@@ -5165,19 +5198,19 @@ their common heritage.
 [17.] Frere, _Introduction, supra_, xxviii-xxix; Notker Balbulus, _Liber
     sequentiarum, Praefatio_ (_MPL_, 131, 1003).
 
-[18.] P. Wagner, “Morgen- und Abendland in der Musikgeschichte,” (ch. 3,
-    note 18) 139; Schnürer, _supra_, II, 88.
+[18.] P. Wagner, "Morgen- und Abendland in der Musikgeschichte," (ch. 3,
+    note 18) 139; Schn�rer, _supra_, II, 88.
 
-[19.] Gastoué, “Les Types byzantins de la Séquence,” _supra_, 2.
+[19.] Gastou�, "Les Types byzantins de la S�quence," _supra_, 2.
 
 [20.] W. Meyer, _Gesammelte Abhandlungen zur mittellateinischen Rythmik_
     (Berlin, 1908) 37.
 
 [21.] P. Von Winterfeld, _Stilfragen aus der lateinischen Dichtung des
-    Mittelalters_ in _Deutsche Dichter etc_. (München, 1922) 442.
+    Mittelalters_ in _Deutsche Dichter etc_. (M�nchen, 1922) 442.
 
-[22.] W. Meyer, _supra_, 41: “So ist die lyrische Dichtung des
-    Mittelalters durchaus dem Kirchengesang neu geboren worden.”
+[22.] W. Meyer, _supra_, 41: "So ist die lyrische Dichtung des
+    Mittelalters durchaus dem Kirchengesang neu geboren worden."
 
 [23.] E. Wellesz, _Eastern Elements in Western Chant. Studies in the
     Early History of Ecclesiastical Music_ (Oxford, 1947) Pt. IV, ch. 1,
@@ -5186,29 +5219,29 @@ their common heritage.
 
 [24.] Notker, _supra_, note 17.
 
-[25.] P. A. Schubiger, _Die Sängerschule St. Gallens vom viii.-xii.
-    Jahrhundert_ (Einsiedeln, 1858); W. Wilmanns, “Welche Sequenzen hat
-    Notker verfasst?,” _Zeitschrift f. deutsches Altertum_, XV (1872)
-    267f.; J. Werner, _Notkers Sequenzen. Beiträge zur Geschichte der
+[25.] P. A. Schubiger, _Die S�ngerschule St. Gallens vom viii.-xii.
+    Jahrhundert_ (Einsiedeln, 1858); W. Wilmanns, "Welche Sequenzen hat
+    Notker verfasst?," _Zeitschrift f. deutsches Altertum_, XV (1872)
+    267f.; J. Werner, _Notkers Sequenzen. Beitr�ge zur Geschichte der
     Lat. Sequenzendichtung_ (Aarau, 1901) III, IV; S. Singer, _supra_;
     Van Doren, (ch. 3, note 5) ch. 9; Clark, (ch. 3, note 14) 175. W.
     von den Steinen, _Notker der Dichter und seine geistliche Welt_, 2
     vols. (Bern. 1948). This author reviews previous literature.
 
-[26.] Ottenwälder, _supra_, 464-5.
+[26.] Ottenw�lder, _supra_, 464-5.
 
 [27.] They are _Canopica_, _Styx_, _Phlegethon_, _sophia_, _herous_,
     _Myrmidonas_, _spermologos_.
 
 [28.] P. S. Allen, _Romanesque Lyric_ (Un. of North Carolina Press,
-    1928) 66, 221, 222; Schnürer, _supra_, 89; Wellesz. _supra_, 165; W.
-    B. Sedgwick, “Origin of Rhyme,” “_Revue Bénédictine_” XXXVI (1924),
+    1928) 66, 221, 222; Schn�rer, _supra_, 89; Wellesz. _supra_, 165; W.
+    B. Sedgwick, "Origin of Rhyme," "_Revue B�n�dictine_" XXXVI (1924),
     341.
 
 [29.] Several attractive illustrations of the _modus_ may be found in
-    Karl Breul’s edition of _The Cambridge Songs_ (Cambridge, 1915).
+    Karl Breul's edition of _The Cambridge Songs_ (Cambridge, 1915).
 
-[30.] Schnürer, _supra_, 89; R. Molitor, _Die Musik in der Reichnau_,
+[30.] Schn�rer, _supra_, 89; R. Molitor, _Die Musik in der Reichnau_,
     reviewed in _Jahrbuch f. Liturgiewissenschaft_ VI (1926) 331.
 
 [31.] See Chapter VII.
@@ -5218,15 +5251,15 @@ their common heritage.
                  Late Middle Ages: Hymns and Sequences
 
 
-[1.] J. De Ghellinck, S. J., _L’Essor de la Littérature Latine au XIIe
-    Siècle_, 2 vols. (Brussels, 1946) II, 285.
+[1.] J. De Ghellinck, S. J., _L'Essor de la Litt�rature Latine au XIIe
+    Si�cle_, 2 vols. (Brussels, 1946) II, 285.
 
-[2.] M. Hélin, History of _Medieval Latin Literature_ (New York, 1949),
-    translated by J. C. Snow from _Littérature d’occident: Histoire des
+[2.] M. H�lin, History of _Medieval Latin Literature_ (New York, 1949),
+    translated by J. C. Snow from _Litt�rature d'occident: Histoire des
     Lettres latines du Moyen Age_, 79.
 
-[3.] L. Gautier, _Oeuvres poétiques d’Adam de Saint-Victor_, 2 vols.
-    (Paris, 1858-9); E. Misset et P. Aubry, _Les Proses d’Adam de
+[3.] L. Gautier, _Oeuvres po�tiques d'Adam de Saint-Victor_, 2 vols.
+    (Paris, 1858-9); E. Misset et P. Aubry, _Les Proses d'Adam de
     Saint-Victor_ (Paris, 1900).
 
 [4.] Translations of first lines: R. Messenger, Anon, E. Caswall.
@@ -5238,7 +5271,7 @@ their common heritage.
 [7.] Translations of first lines: 1 and 2, H. Waddell; 3 and 5, E.
     Caswall; 4, R. Messenger.
 
-[8.] Hélin, _supra_, 117.
+[8.] H�lin, _supra_, 117.
 
 [9.] P. Wagner, _Introduction to the Gregorian Melodies_ (ch. 4, note 3)
     241.
@@ -5248,21 +5281,21 @@ their common heritage.
 
 [11.] Translation of first line: R. Messenger.
 
-[12.] R. E. Messenger, “Hymns and Sequences of the Sarum Use,” _TAPhA_,
+[12.] R. E. Messenger, "Hymns and Sequences of the Sarum Use," _TAPhA_,
     59 (1928) 99-129.
 
 [13.] E. Bishop, _Liturgica Historica_ (Oxford, 1918) 211-37.
 
 [14.] E. Hoskins, _Horae Beatae Mariae Virginis etc_. (London, 1901); H.
-    Bohatta, _Bibliographie des livres d’heures_ (Wien, 1924), 2nd
+    Bohatta, _Bibliographie des livres d'heures_ (Wien, 1924), 2nd
     edition.
 
-[15.] R. E. Messenger, “Hymns in the Horae Eboracenses,” _Classical
+[15.] R. E. Messenger, "Hymns in the Horae Eboracenses," _Classical
     Weekly_, 38 (Jan., 1945) 90-5.
 
-[16.] S. Singer, “Arabische und europäische Poesie im Mittelalter,”
+[16.] S. Singer, "Arabische und europ�ische Poesie im Mittelalter,"
     _Zeitschrift f. deutsche Philologie_, LII (April, 1927); K. Burdach,
-    “Über den Ursprung des mittelalterichen Minnesangs, etc.” in
+    "�ber den Ursprung des mittelalterichen Minnesangs, etc." in
     _Vorspiel_ I (Halle, 1925) 311; A. F. von Schack, _Poesie und Kunst
     der Araber etc_., 2 vols. (Stuttgart, 1877) II, 101-5.
 
@@ -5270,7 +5303,7 @@ their common heritage.
     1924). Translations of William Herebert (d. 1333) xiii.
 
 [18.] _Ad honorem Regis summi_, translation of first line: R. E.
-    Messenger. See C. Daux, _Les Chansons des Pèlerins de St. Jacques_
+    Messenger. See C. Daux, _Les Chansons des P�lerins de St. Jacques_
     (Montauban, 1899).
 
 [19.] A. S. Walpole, _Early Latin Hymns_, (ch. 1, note 3) 87-92.
@@ -5279,8 +5312,8 @@ their common heritage.
     York 1940) 33. Miss Rodgers sums up the evidence here, reaching an
     affirmative conclusion.
 
-[21.] L. Thorndike, “Elementary and Secondary Education in the Middle
-    Ages,” _Speculum_, 15 (1940) 400-8, p. 401.
+[21.] L. Thorndike, "Elementary and Secondary Education in the Middle
+    Ages," _Speculum_, 15 (1940) 400-8, p. 401.
 
 [22.] W. O. Wehrle, _Macaronic Hymn Tradition etc_. (Washington, 1933).
 
@@ -5310,14 +5343,14 @@ their common heritage.
     etc._ Reviewed in _Jahrbuch f. Liturgiewissenschaft_, 10 (1930)
     339-40.
 
-[7.] P. Batiffol, _Études de liturgie et d’archéologie chrétienne_,
+[7.] P. Batiffol, _�tudes de liturgie et d'arch�ologie chr�tienne_,
     (Paris, 1919) ch. VI, _La Chandeleur_, p. 200.
 
 [8.] Ambrose, _Ep_. 11(53), _MPL_ 17. 743-4; Augustine, _De Civ. Dei_
     22. 8; _Conf._ 9. 7; See also the hymn _Grates tibi, Jesu, novas_,
     attributed to Ambrose, _A. H._ 50. 17.
 
-[9.] G. H. Cobb, “Early Catholic Outdoor Processions,” _The Month_, 148
+[9.] G. H. Cobb, "Early Catholic Outdoor Processions," _The Month_, 148
     (1926) 539-542.
 
 [10.] For Mamertus, see Greg. Turonen., _Hist. franc._ 2. 34, _MPL_ 71.
@@ -5340,9 +5373,9 @@ their common heritage.
     supplicationes quae a populi fideli, duce clero, fiunt eundo
     ordinatim de loco sacro ad locum sacrum, ad excitandam fidelium
     pietatem, ad commemoranda Dei beneficia eique gratias agendas, ad
-    divinum auxilium implorandum_. Can. 1290. ç I.
+    divinum auxilium implorandum_. Can. 1290. � I.
 
-[14.] B. M. Peebles, “Fortunatus, Poet of the Holy Cross,” _Amer. Church
+[14.] B. M. Peebles, "Fortunatus, Poet of the Holy Cross," _Amer. Church
     Monthly_ 38 (1935, July-Sept.) 152-166. His account is based upon
     Greg. Turonen., _Hist. franc._, IX, 40; Baudonovia, _Vita S. Rad._,
     II. 16.
@@ -5350,11 +5383,11 @@ their common heritage.
 [15.] R. E. Messenger, _Salve festa dies, TAPhA_, 78 (1947) 208-222.
     Translation, S. A. Hurlbut; for _Salve festa dies_, traditional.
 
-[16.] Dom M. Férotin, _Liber ordinum_, in _Monumenta ecclesiae
+[16.] Dom M. F�rotin, _Liber ordinum_, in _Monumenta ecclesiae
     liturgica_, 5 (Paris, 1904) 178-87; Isidore of Seville, _De
     ecclesiasticis officiis_, 1. 38.
 
-[17.] Férotin, _supra_, 179.
+[17.] F�rotin, _supra_, 179.
 
 [18.] A. S. Walpole, _Early Latin Hymns_, (ch. 1, note 3) 337-340.
     Translation, 1st line, Walpole.
@@ -5366,7 +5399,7 @@ their common heritage.
 [21.] Translations in this chapter, unless otherwise noted, are
     furnished by the author.
 
-[22.] L. Gautier, _Histoire de la Poésie liturgique etc._ (ch. 4, note
+[22.] L. Gautier, _Histoire de la Po�sie liturgique etc._ (ch. 4, note
     9) ch. VI, _Versus_.
 
 [23.] Von den Steinen, _Notker der Dichter etc._ (ch. 4, note 25) I,
@@ -5393,7 +5426,7 @@ their common heritage.
 
 [32.] G. Reese, _Music in the Middle Ages_ (ch. 1, note 11) 201.
 
-[33.] L. Ellinwood, “The Conductus,” _Musical Quarterly_, 27 (1941) 2.
+[33.] L. Ellinwood, "The Conductus," _Musical Quarterly_, 27 (1941) 2.
     165-203.
 
 
@@ -5401,7 +5434,7 @@ their common heritage.
                  Influence and Survival of Latin Hymns
 
 
-[1.] W. B. Sedgwick, “The Origin of Rhyme,” (ch. 4, note 28) 333.
+[1.] W. B. Sedgwick, "The Origin of Rhyme," (ch. 4, note 28) 333.
 
 [2.] For translations see Helen J. Waddell, _Medieval Latin Lyrics_
     (London, 1929); _The Wandering Scholars_ (New York, 1949), new
@@ -5413,17 +5446,17 @@ their common heritage.
 [4.] F. J. E. Raby, _History of Secular Latin poetry in the Middle
     Ages_, 2 vols. (Oxford, 1934) II, 332.
 
-[5.] E. M. Sanford, “Were the Hymns of Prudentius actually sung?”
+[5.] E. M. Sanford, "Were the Hymns of Prudentius actually sung?"
     _Classical Philology_ 31 (1936) 71.
 
 [6.] For the texts of liturgical plays, see K. Young, _The Drama of the
     Medieval Church_, 2 vols. (Oxford, 1933).
 
-[7.] B. M. Peebles, “O Roma nobilis,” _Amer. Benedictine Review_, I
+[7.] B. M. Peebles, "O Roma nobilis," _Amer. Benedictine Review_, I
     (1950) no. 1.
 
 [8.] R. Stroppel, _Liturgie und geistliche Dichtung_ (Frankfurt am Main,
-    1927) 53-5: S. Singer, “Karolingische Renaissance,”
+    1927) 53-5: S. Singer, "Karolingische Renaissance,"
     _Germanisch-Romanisch Monatschrift_, 13 (1925) 200-1.
 
 [9.] K. E. Wackernagel, _Das deutsche Kirchenlied etc._, 5 vols.
@@ -5432,37 +5465,37 @@ their common heritage.
 [10.] K. Meyer, Selections from _Ancient Irish Poetry_ (London, 1911)
     _Introd._ 13.
 
-[11.] J. Pokorny, _Die älteste Lyrik der grünen Insel_ (Halle S., 1923)
+[11.] J. Pokorny, _Die �lteste Lyrik der gr�nen Insel_ (Halle S., 1923)
     13, 14.
 
-[12.] W. Meyer, “Liturgie, Kunst und Dichtung in Mittelalter,”
+[12.] W. Meyer, "Liturgie, Kunst und Dichtung in Mittelalter,"
     _Gesammelte Abhandlungen_ (Berlin, 1905) 371.
 
-[13.] P. von Winterfeld, “Stilfragen der lateinischen Dichtung des
-    Mittelalters,” _Deutsche Dichter des lateinischen Mittelalters_
-    (München, 1922) 440.
+[13.] P. von Winterfeld, "Stilfragen der lateinischen Dichtung des
+    Mittelalters," _Deutsche Dichter des lateinischen Mittelalters_
+    (M�nchen, 1922) 440.
 
 [14.] Washington, D. C., Catholic Un. Press, 1942, especially p. 221,
     231, 248, 266.
 
-[15.] H. Koht, “Medieval Liberty Poems,” _Amer. Hist. Review_, 48 (1943)
+[15.] H. Koht, "Medieval Liberty Poems," _Amer. Hist. Review_, 48 (1943)
     no. 2, 281-290.
 
-[16.] H. Spanke, “Über das Fortleben der Sequenzenform in den
-    Romanischen Sprachens,” _Zeitschrift f. Rom. Philol._ 51 (1931)
+[16.] H. Spanke, "�ber das Fortleben der Sequenzenform in den
+    Romanischen Sprachens," _Zeitschrift f. Rom. Philol._ 51 (1931)
     309-334.
 
 [17.] E. A. Peers. _Ramon Lull_ (London, 1929) 140.
 
-[18.] See translation by H. C. Robbins, 1939, “Most High, Omnipotent,
-    Good Lord.”
+[18.] See translation by H. C. Robbins, 1939, "Most High, Omnipotent,
+    Good Lord."
 
-[19.] For a brief account, see J. Pulver, “Laudi spirituali,” _Musical
+[19.] For a brief account, see J. Pulver, "Laudi spirituali," _Musical
     Opinion_, March, 1938, 503-4; April, 1938, 602-3; May, 1938, 691-2.
 
 [20.] See Bibliography for these titles.
 
-[21.] Dom Jean Stéphan, _The Adeste fideles_, “Publications,” Buckfast
+[21.] Dom Jean St�phan, _The Adeste fideles_, "Publications," Buckfast
     Abbey, South Devon, England, 1947. Translation, Frederick Oakeley.
 
 [22.] M. Britt, _Hymns of the Breviary and Missal_ (New York, 1922,
@@ -5476,7 +5509,7 @@ their common heritage.
 
                            I. Bibliographies
 
-Leclercq, L., Article “Hymnes”, _Dictionnaire d’archéologie chrétienne
+Leclercq, L., Article "Hymnes", _Dictionnaire d'arch�ologie chr�tienne
 et de liturgie_. Contains extensive bibliography upon the subject of
 medieval hymnology.
 
@@ -5500,7 +5533,7 @@ _Analecta liturgica_, part 2, vols. I, _Thesaurus hymnologicus_; II,
 _Prosae_, edited by E. Misset and W. H. J. Weale. Insulis et Brugis,
 1888-1902.
 
-Blume, C. and Dreves, G. M., _Hymnologische Beiträge_ (Quellen und
+Blume, C. and Dreves, G. M., _Hymnologische Beitr�ge_ (Quellen und
 Forschungen zur Geschichte der lateinischen Hymnendichtungen, 2 vols.).
 Leipzig, 1897-1901.
 
@@ -5540,14 +5573,14 @@ Merrill, W. A., _Latin hymns_. New York, 1917. Text book.
 Mone, F. J., _Lateinische Hymnen des Mittelalters_, 3 vols. Freiburg im
 Breisgau, 1853-1855.
 
-Morel, G., _Lateinische Hymnen des Mittelalters_, grösstentheils aus
+Morel, G., _Lateinische Hymnen des Mittelalters_, gr�sstentheils aus
 Handschriften schweizerischen Kloster, als Nachtrag zu den
 Hymnensammlungen von Mone, Daniel & Andern. Einsiedeln, 1866.
 
 Neale, J. M., _Hymni ecclesiae e breviariis quibusdam et missalibus
 Gallicanis, Germanis, Hispanis, Lusitanis desumpti_. Oxford, 1851.
 
-——, _Sequentiae ex missalibus Germanis, Anglicis, Gallicis, aliisque
+----, _Sequentiae ex missalibus Germanis, Anglicis, Gallicis, aliisque
 medii aevi, collectae_. London, 1852.
 
 Newman, J. H., _Hymni ecclesiae_, London, 1838, 1865.
@@ -5568,7 +5601,7 @@ Wackernagel, K. E., _Das deutschen Kirchenlied_, 5 vols. Leipzig,
 Walpole, A. S., _Early Latin hymns_. Cambridge, 1922.
 
 Weale, W. H. J., _Analecta liturgica_, Part II, vols. I, II, _Thesaurus
-hymnologicus—Prosae_. Insulis et Brugis, 1888-1902.
+hymnologicus--Prosae_. Insulis et Brugis, 1888-1902.
 
 
                 III. History and Authors of Latin Hymns
@@ -5584,37 +5617,37 @@ Beck, C., _Mittellateinische Dichtung_. Berlin, 1927.
 
 Benson, L. F., _Hymnody of the Christian church_. New York, 1927.
 
-Biraghi, L., _Inni sinceri e carmi di Sant’Ambrogio_. Milano, 1862.
+Biraghi, L., _Inni sinceri e carmi di Sant'Ambrogio_. Milano, 1862.
 
-Blume, C., Articles “Hymn”, “Hymnody and Hymnology.” _Cath. Enc_.
+Blume, C., Articles "Hymn", "Hymnody and Hymnology." _Cath. Enc_.
 
-Coulter, C. C., “Latin hymns of the Middle Ages”, _Studies in
+Coulter, C. C., "Latin hymns of the Middle Ages", _Studies in
 Philology_, 21 (1924) 571-585.
 
-DeGhellinck, J., S. J., _Littérature Latine au Moyen Age_, 2 vols.
+DeGhellinck, J., S. J., _Litt�rature Latine au Moyen Age_, 2 vols.
 Paris, 1939.
 
-——, _Littérature Latine au XIIe Siècle_, 2 vols. Brussels, 1946.
+----, _Litt�rature Latine au XIIe Si�cle_, 2 vols. Brussels, 1946.
 
-De Labriolle, P., _Histoire de la Littérature latine chrétienne_. Paris,
+De Labriolle, P., _Histoire de la Litt�rature latine chr�tienne_. Paris,
 1924. Translation by H. Wilson, _History and Literature of Christianity
 from Tertullian to Boethius_. New York, 1925.
 
-Donahue, D. J., “The sacred songs of the Middle Ages”, _Cath. Hist.
+Donahue, D. J., "The sacred songs of the Middle Ages", _Cath. Hist.
 Rev._, N. S. vol. 3 (1923) 217-235.
 
 Dreves, G. M., _Ein Jahrtausend lateinischer Hymnendichtung_, Eine
-Blütenlese aus den Anal. hymn. mit literarhistorischen Erläuterungen, 2
+Bl�tenlese aus den Anal. hymn. mit literarhistorischen Erl�uterungen, 2
 vols. Leipzig, 1909.
 
 Duckett, E. S., _Gateway to the Middle Ages_. New York, 1938.
 
-——, _Latin writers of the 5th century_. New York, 1930.
+----, _Latin writers of the 5th century_. New York, 1930.
 
 Dudden, F. H., _Gregory the Great. His place in history and thought_, 2
 vols. New York, 1905.
 
-——, _The life and times of St. Ambrose_, 2 vols. Oxford, 1935.
+----, _The life and times of St. Ambrose_, 2 vols. Oxford, 1935.
 
 Duffield, S. W., _The Latin hymn-writers and their hymns_. New York,
 1889.
@@ -5622,35 +5655,35 @@ Duffield, S. W., _The Latin hymn-writers and their hymns_. New York,
 Ebert, A., _Allgemeine Geschichte der Literatur des Mittelalters im
 Abendlande_, 3 vols. Leipzig, 1880-1889. 2nd edition of vol. I.
 
-Gastoué, A., “Proses et séquences”, _Tribune d. S. Gervais_ (1922),
-69-72; “Les origines liturgiques latines de la séquence”, 153-158; “Les
-types byzantins de la séquence”, (1923) 1-6.
+Gastou�, A., "Proses et s�quences", _Tribune d. S. Gervais_ (1922),
+69-72; "Les origines liturgiques latines de la s�quence", 153-158; "Les
+types byzantins de la s�quence", (1923) 1-6.
 
-Gautier, L., _Oeuvres poétiques d’Adam de Saint-Victor_. Paris, 1881.
+Gautier, L., _Oeuvres po�tiques d'Adam de Saint-Victor_. Paris, 1881.
 
 Gillman, F. J., _Evolution of the English hymn_. New York, 1927.
 
 Heider, A. B., _The Blessed Virgin in early Christian Latin poetry_.
 Washington, D. C., 1918.
 
-Hélin, M., _History of medieval Latin literature_. New York, 1949.
-Translated by J. C. Snow from _Littérature d’occident: Histoire des
+H�lin, M., _History of medieval Latin literature_. New York, 1949.
+Translated by J. C. Snow from _Litt�rature d'occident: Histoire des
 lettres Latines du Moyen Age_.
 
 Hughes, H. V., Dom Anselm, _Latin Hymnody_. London, 1922.
 
 Julian, J., _Dictionary of hymnology_. London, 1925.
 
-Kayser, J., _Beiträge zur Geschichte und Erklärung der ältesten
+Kayser, J., _Beitr�ge zur Geschichte und Erkl�rung der �ltesten
 Kirchenhymnen_, 2 vols. Paderborn, 1881, 1886.
 
 Koebner, R., _Venantius Fortunatus_. Leipzig, 1915.
 
 Kroll, J., _Die christliche Hymnodik bis zu Klemens von Alexandreia_.
-Königsburg: Prog. d. Ak. von Braunsberg, 1921-2. s. 47-98.
+K�nigsburg: Prog. d. Ak. von Braunsberg, 1921-2. s. 47-98.
 
-——, “Die Hymnendichtung des frühen Christentums”, _Die Antike_, 2 (1926)
-258-281.
+----, "Die Hymnendichtung des fr�hen Christentums", _Die Antike_, 2
+(1926) 258-281.
 
 Kuhnmuench, O., S. J., _Early Christian Latin poets from the 4th-6th
 century_. Chicago, 1929.
@@ -5663,23 +5696,23 @@ Mac Gilton, A. K., _Study of Latin hymns_. Boston, 1918.
 Manitius, M., _Geschichte der christlich-lateinischen Poesie bis zur
 Mitte des 8. Jahrhunderts_. Stuttgart, 1891.
 
-——, _Geschichte der lateinischen Literatur des Mittelalters_, 3 vols.
-München, 1911-1931.
+----, _Geschichte der lateinischen Literatur des Mittelalters_, 3 vols.
+M�nchen, 1911-1931.
 
 Maryosip, M., _The oldest Christian hymn-book_. Temple, Texas, 1948.
 
 Meyer, W., _Der Gelegenheitsdichter Venantius Fortunatus_. Berlin, 1901.
 
-Misset, E. et Aubry, P., _Les Proses d’Adam de Saint-Victor_, texte et
+Misset, E. et Aubry, P., _Les Proses d'Adam de Saint-Victor_, texte et
 musique. Paris, 1900.
 
 Myers, W. N., _The hymns of Saint Hilary of Poitiers in the codex
 Aretinus_. Phila., 1928.
 
-Peebles, B. M., “Fortunatus, poet of the Holy Cross”, _Amer. Church
+Peebles, B. M., "Fortunatus, poet of the Holy Cross", _Amer. Church
 Monthly_, 38 (1935) 152-166.
 
-——, _The Poet Prudentius_. Boston College Candlemas Lectures on
+----, _The Poet Prudentius_. Boston College Candlemas Lectures on
 Christian Literature: no. 2. New York, 1951.
 
 Phillips, C. S., _Hymnody past and present_. London, 1937.
@@ -5689,19 +5722,19 @@ Rand, E. K., _Founders of the Middle Ages_. Cambridge, 1928.
 Sage, C. M., _Paul Albar of Cordova: Studies on his life and writings_.
 Washington, D. C., 1943.
 
-Tardi, D., _Fortunat. Étude sur un dernier représentant de la poésie
+Tardi, D., _Fortunat. �tude sur un dernier repr�sentant de la po�sie
 latine le Gaule merovingienne_. Paris, 1927.
 
 Trench, R. C., _Sacred Latin poetry_. London, 1874.
 
-Weyman, C., _Beiträge zur Geschichte der christlich-lateinischen
-Poesie_. München, 1926.
+Weyman, C., _Beitr�ge zur Geschichte der christlich-lateinischen
+Poesie_. M�nchen, 1926.
 
-Wilmart, A. Dom, _Auteurs spirituels et textes dévots du moyen âge
-Latin. Études d’histoire litteraire_. Paris, 1932.
+Wilmart, A. Dom, _Auteurs spirituels et textes d�vots du moyen �ge
+Latin. �tudes d'histoire litteraire_. Paris, 1932.
 
-——, “Le Psautier de la reine, N. XI, sa provenance et sa date”, _Revue
-Bénédictine_, July-Oct. 1911, 341 ff.
+----, "Le Psautier de la reine, N. XI, sa provenance et sa date", _Revue
+B�n�dictine_, July-Oct. 1911, 341 ff.
 
 Wrangham, D. S., _Liturgical poetry of Adam of St. Victor_. London,
 1881.
@@ -5710,30 +5743,30 @@ Wrangham, D. S., _Liturgical poetry of Adam of St. Victor_. London,
                          IV. Hymns and Liturgy
 
 _Antiphonarium Hartkeri, saec._ XI, St. Gall MS, 390-391, p. 15-16.
-_Paléographie Musicale_, Deuxième Série, Tome 1.
+_Pal�ographie Musicale_, Deuxi�me S�rie, Tome 1.
 
 _Antiphonary of Bangor_, An early Irish manuscript in the Ambrosian
 Library at Milan, edited by F. E. Warren. Henry Bradshaw Society Pub.
 vols. 4, 10. London, 1893, 1895.
 
-Batiffol, P., _Études de liturgie et d’archéologie chrétienne_, Ch. VI,
+Batiffol, P., _�tudes de liturgie et d'arch�ologie chr�tienne_, Ch. VI,
 _La Chandeleur_, 193-215. Paris, 1919.
 
-——, _History of the Roman Breviary_. Translated from the 3rd French
+----, _History of the Roman Breviary_. Translated from the 3rd French
 edition by A. M. Baylay. London, 1912.
 
 Bishop, E., _Liturgica historica_, Oxford, 1918.
 
-——, “Spanish Symptoms”, _Theological Studies_, 8 (1907) 278-294.
+----, "Spanish Symptoms", _Theological Studies_, 8 (1907) 278-294.
 
-——, _The Mozarabic and Ambrosian Rites_. London, 1924.
+----, _The Mozarabic and Ambrosian Rites_. London, 1924.
 
 Blume, C., Der cursus S. _Benedicti Nursini und die liturgischen Hymnen
 des 6.-9. Jahrhunderts_. Leipzig, 1908.
 
-——, _Unsere liturgischen Lieder_. Regensburg, 1932.
+----, _Unsere liturgischen Lieder_. Regensburg, 1932.
 
-Bohatta, H., _Bibliographie des livres d’heures_ etc. Wien, 1924, 2nd
+Bohatta, H., _Bibliographie des livres d'heures_ etc. Wien, 1924, 2nd
 ed.
 
 _Breviarium Gothicum_, edited by A. Lorenzana. Madrid, 1775. See Migne,
@@ -5754,7 +5787,7 @@ poets_. London, 1876.
 
 Dowden, J., _Church year and kalendar_. Cambridge, 1910.
 
-Duchesne, L., _Origines du culte chrétien_. Translation _Christian
+Duchesne, L., _Origines du culte chr�tien_. Translation _Christian
 worship: origin and evolution_ from the 3rd French edition by M. L.
 McClure. London, 1904.
 
@@ -5766,9 +5799,9 @@ Fisher, A. H., _Cathedral church of Hereford_. London, 1898.
 Fortescue, A., _Concerning Hymns_. See Introduction to A. G. McDougall,
 _Pange lingua_, above.
 
-——, _The Mass: a study of the Roman liturgy_. London, 1914.
+----, _The Mass: a study of the Roman liturgy_. London, 1914.
 
-Gautier, L., _Histoire de la Poésie liturgique au Moyen Age. Les
+Gautier, L., _Histoire de la Po�sie liturgique au Moyen Age. Les
 Tropes._ Paris, 1886.
 
 _Hereford Breviary_, edited by W. H. Frere and L. E. G. Brown. Henry
@@ -5795,8 +5828,8 @@ liturgical point of view.
 _Irish Liber Hymnorum_, edited by J. H. Bernard and R. Atkinson. Henry
 Bradshaw Society Pub. vols. 13, 14. London, 1897, 1898.
 
-_Jahrbuch für Liturgiewissenschaft_, edited by O. Casel, O. S. B.
-Münster i. W., 1921-1934. Vol. xiv (1934) was published in 1938.
+_Jahrbuch f�r Liturgiewissenschaft_, edited by O. Casel, O. S. B.
+M�nster i. W., 1921-1934. Vol. xiv (1934) was published in 1938.
 Invaluable bibliography for every field of medieval hymnology. Many
 reviews of articles otherwise unobtainable.
 
@@ -5815,8 +5848,8 @@ edited by W. G. Henderson. Surtees Society Pub. vol. 63. Durham, 1875.
 Maskell, W., _Ancient liturgy of the church of England_. Oxford, 1882.
 3rd edition.
 
-——, _Monumenta ritualia ecclesiae Anglicanae_, 3 vols. Oxford, 1882. 2nd
-edition.
+----, _Monumenta ritualia ecclesiae Anglicanae_, 3 vols. Oxford, 1882.
+2nd edition.
 
 Mearns, J., _Early Latin hymnaries_, an index of hymns in hymnaries
 before 1100, with an appendix from later sources. Cambridge, 1913.
@@ -5853,7 +5886,7 @@ _Processionale ad usum ... Sarum_, edited by W. G. Henderson. Leeds,
 _Prymer_, edited by H. Littlehales. Early English Text Society, original
 series 105, 109. London, 1895, 1897.
 
-Rock, D., _Church of our fathers as seen in St. Osmund’s rite for the
+Rock, D., _Church of our fathers as seen in St. Osmund's rite for the
 cathedral of Salisbury_, 4 vols. Edited by G. W. Hart and W. H. Frere.
 London, 1903-1904.
 
@@ -5885,9 +5918,9 @@ London, 1894.
 Wordsworth, C., _Ceremonies and processions of the cathedral church of
 Salisbury_. Cambridge, 1901.
 
-——, _Notes on mediaeval services in England_. London, 1898.
+----, _Notes on mediaeval services in England_. London, 1898.
 
-——, and H. Littlehales, _The old service books of the English church_.
+----, and H. Littlehales, _The old service books of the English church_.
 London, 1904.
 
 _York breviary_, edited by J. H. Srawley. Surtees Society Pub. vols. 71,
@@ -5918,21 +5951,21 @@ Gregorian music.
 
 _Apocryphal New Testament_, edited by M. R. James. Oxford, 1924.
 
-Blume, C., “Hymnologie und Kulturgeschichte des Mittelalters”, in
+Blume, C., "Hymnologie und Kulturgeschichte des Mittelalters", in
 _Festschrift f. Georg von Hertling_. Kempten, 1913. Pp. 117-130.
 
-Brehier, L., _L’art chrétien_. Paris, 1928. 2nd edition.
+Brehier, L., _L'art chr�tien_. Paris, 1928. 2nd edition.
 
 Brown, C., _English lyrics of the 13th century_. London, 1932.
 
-——, _Religious lyrics of the 14th century_. Oxford, 1924.
+----, _Religious lyrics of the 14th century_. Oxford, 1924.
 
-——, _Religious lyrics of the 15th century_. Oxford, 1939.
+----, _Religious lyrics of the 15th century_. Oxford, 1939.
 
-——, _Register of Middle English religious and didactic verse_, Pt. II.
+----, _Register of Middle English religious and didactic verse_, Pt. II.
 Oxford, 1920.
 
-Burdach, K., _Vorspiel_, Bd. I. Über den Ursprung des mittelalterlichen
+Burdach, K., _Vorspiel_, Bd. I. �ber den Ursprung des mittelalterlichen
 Minnesangs, Liebesromans und Frauendienstes. Halle S., 1925.
 
 Chambers, E. K., _Mediaeval Stage_, 2 vols. Oxford, 1903.
@@ -5940,8 +5973,8 @@ Chambers, E. K., _Mediaeval Stage_, 2 vols. Oxford, 1903.
 Clark, J. M., _The abbey of St. Gall as a center of literature and art_.
 Cambridge, 1926.
 
-Cohen, G., _Histoire de la mise en scène dans le théatre religieux
-français du moyen âge_. Paris, 1926. Fine bibliography.
+Cohen, G., _Histoire de la mise en sc�ne dans le th�atre religieux
+fran�ais du moyen �ge_. Paris, 1926. Fine bibliography.
 
 Creizenach, W., _Geschichte des neueren Dramas_, vol. I. Halle, 1911.
 
@@ -5950,7 +5983,7 @@ London, 1914.
 
 Delehaye, H., _Les legendes hagiographiques_. Bruxelles, 1905.
 
-Diehl, C., _Manuel d’art Byzantin_. Paris, 1910.
+Diehl, C., _Manuel d'art Byzantin_. Paris, 1910.
 
 Dill, S., _Roman Society in Gaul in the merovingian age_. London, 1926.
 
@@ -5958,7 +5991,7 @@ Douglas, W. C., _Church music in history and practice_. New York, 1937.
 
 Drake, M. and W., _Saints and their emblems_. London, 1916.
 
-Duchartre, P. L., _Mittelalterliche Plastik in Frankreich_. München,
+Duchartre, P. L., _Mittelalterliche Plastik in Frankreich_. M�nchen,
 1925.
 
 Evans, J., _Monastic life at Cluny, 910-1157_. London, 1931.
@@ -5966,28 +5999,28 @@ Evans, J., _Monastic life at Cluny, 910-1157_. London, 1931.
 Farmer, H. G., _Historical facts for the Arabian musical influence_.
 London, 1930.
 
-——, _History of Arabian music to the XIIIth C._ London, 1929.
+----, _History of Arabian music to the XIIIth C._ London, 1929.
 
-Fellerer, K. G., _Beiträge zur Musikgeschichte Freisings_ etc. Freising,
+Fellerer, K. G., _Beitr�ge zur Musikgeschichte Freisings_ etc. Freising,
 1926.
 
 Gams, Dom P. B., _Die Kirchengeschichte von Spanien_, 5 vols.
 Regensburg, 1862-1879.
 
-Garcia Villada, _Historia eclesiástica de España_, 3 vols. in 5. Madrid,
+Garcia Villada, _Historia eclesi�stica de Espa�a_, 3 vols. in 5. Madrid,
 1929-1936.
 
 Gasquet, F. A., _Parish life in mediaeval England_. London, 1907.
 
-Gautier, L., _La poésie religieuse dans les cloîtres des IXe-XIe
-siècles_. Paris, 1887.
+Gautier, L., _La po�sie religieuse dans les clo�tres des IXe-XIe
+si�cles_. Paris, 1887.
 
-Gougaud, L., _Les chrétientés Celtiques_. Paris, 1911.
+Gougaud, L., _Les chr�tient�s Celtiques_. Paris, 1911.
 
-Gourmont, R. de, _Le Latin mystique_; les poetes de l’antiphonaire et la
-symbolique au moyen âge. Paris, 1913.
+Gourmont, R. de, _Le Latin mystique_; les poetes de l'antiphonaire et la
+symbolique au moyen �ge. Paris, 1913.
 
-Hauttmann, M., _Die Kunst des frühen Mittelalters_. Berlin, 1929.
+Hauttmann, M., _Die Kunst des fr�hen Mittelalters_. Berlin, 1929.
 
 Higginson, J. V., _Revival of Gregorian chant_. Papers of the Hymn
 Society of America, XV. New York, 1949.
@@ -5996,41 +6029,41 @@ Jacopo de Voragine, _Golden legend_. Lives of the saints as Englished by
 William Caxton, 7 vols. _Temple Classics_, edited by F. S. Ellis.
 London, 1900.
 
-Jeanroy, A., _Le théatre religieux en France du XIe au XIIIe siècles_.
+Jeanroy, A., _Le th�atre religieux en France du XIe au XIIIe si�cles_.
 Paris, 1924.
 
-——, _Les origines de la poésie lyrique en France au moyen âge_. Paris,
+----, _Les origines de la po�sie lyrique en France au moyen �ge_. Paris,
 1925.
 
 Kretzman, P. E., _The liturgical element in the earliest forms of the
 medieval drama_. Un. of Minnesota Studies in Language and Literature,
 no. 4, 1916.
 
-Künstle, K., _Ikonographie der Heiligen_. Freiburg im Breisgau, 1926.
+K�nstle, K., _Ikonographie der Heiligen_. Freiburg im Breisgau, 1926.
 
 Lang, P. H., _Music in western civilization_. New York, 1941.
 
-Lévi-Provençal, E., _La civilization arabe en Espagne, vue general_. Le
+L�vi-Proven�al, E., _La civilization arabe en Espagne, vue general_. Le
 Caire, 1938.
 
 Luchaire, A. (D.J.A.) _Social France at the time of Philip Augustus_,
 translated from the 2nd French edition by E. B. Krehbiel. New York,
 1912.
 
-Mâle, E., _L’art religieux du XIIe siècle en France_. Paris, 1922.
+M�le, E., _L'art religieux du XIIe si�cle en France_. Paris, 1922.
 
-——, _L’art religieux du XIIIe siècle en France_. Paris, 1923.
+----, _L'art religieux du XIIIe si�cle en France_. Paris, 1923.
 
-——, _L’art religieux de la fin du moyen âge en France_. Paris, 1922.
+----, _L'art religieux de la fin du moyen �ge en France_. Paris, 1922.
 
-——, _L’art allemand et l’art français du moyen âge_. Paris, 1922.
+----, _L'art allemand et l'art fran�ais du moyen �ge_. Paris, 1922.
 
 Meyer, K., _Selections from ancient Irish poetry_. London, 1911.
 
 Meyer, W., _Gesammelte Abhandlungen zur mittellateinischen Rythmik_, 2
 vols. in 1. Berlin, 1905.
 
-Müller, H. F., “Pre-history of the mediaeval drama”, _Zeitschrift für
+M�ller, H. F., "Pre-history of the mediaeval drama", _Zeitschrift f�r
 romanische Philologie_, Bd. 44 (1924) 544-575.
 
 Nelson, P., _Ancient stained glass in England_. London, 1913.
@@ -6040,29 +6073,29 @@ Owst, G. R., _Preaching in medieval England_. Cambridge, 1926.
 Prior, E. A. and Gardner, A., _An account of medieval figure-sculpture
 in England_. Cambridge, 1912.
 
-Pokorny, J., _Die älteste Lyrik der grünen Insel_. Halle S., 1923.
+Pokorny, J., _Die �lteste Lyrik der gr�nen Insel_. Halle S., 1923.
 
 Quasten, J., _Musik und Gesang in den Kulten der heidnischen Antike und
-christlichen Frühzeit_. Münster im W., 1930.
+christlichen Fr�hzeit_. M�nster im W., 1930.
 
 Raby, F. J. E., _A history of secular Latin poetry in the M. A._, 2
 vols. Oxford, 1934.
 
-Riaño, J. F., _Critical and bibliographical notes on early Spanish
+Ria�o, J. F., _Critical and bibliographical notes on early Spanish
 music_. London, 1887.
 
 Schroeder, Sister M. J., _Mary-Verse in Meistergesang_. Washington, D.
 C., 1942.
 
-Sedgwick, W. B., “Origin of rhyme”, _Revue Bénédictine_, 36 (1924)
+Sedgwick, W. B., "Origin of rhyme", _Revue B�n�dictine_, 36 (1924)
 330-346.
 
 Singer, S., _Die Dichterschule von St. Gallen_. Leipzig, 1922.
 
-Spanke, H., _Deutsche und französische Dichtung des Mittelalters_.
+Spanke, H., _Deutsche und franz�sische Dichtung des Mittelalters_.
 Stuttgart, 1943.
 
-——, “Zur Geschichte der spanischen Musik des Mittelalters”, _Hist.
+----, "Zur Geschichte der spanischen Musik des Mittelalters", _Hist.
 Vierteljahrschrift_, 28 (1934), 737-66.
 
 Steinen, W. von den, _Notker der Dichter und seine geistliche Welt_, 2
@@ -6076,20 +6109,20 @@ Taylor, H. O., _The medieval mind_, 2 vols. New York, 1914.
 
 Trend, J. B., _The music of Spanish history to 1600_. London, 1926.
 
-Turner, W., “Irish teachers in the Carolingian revival of learning”,
+Turner, W., "Irish teachers in the Carolingian revival of learning",
 _Cath. Un. Bulletin_, XIII, Washington, D. C., 1907, pp. 382, 562.
 
-Van Doren, Dom R., _Étude sur l’influence musicale de l’abbaye de
+Van Doren, Dom R., _�tude sur l'influence musicale de l'abbaye de
 Saint-Gall_. Louvain, 1925.
 
-Wagner, P., _Einführung in die Gregorianischen Melodien_, London, 1907.
+Wagner, P., _Einf�hrung in die Gregorianischen Melodien_, London, 1907.
 
-——, “Morgen- und Abendland in der Musikgeschichte”, _Stimmen der Zeit_,
-Bd. 114 (1927) 131-145.
+----, "Morgen- und Abendland in der Musikgeschichte", _Stimmen der
+Zeit_, Bd. 114 (1927) 131-145.
 
-——, “Der mozarabische Kirchengesang und seiner Überlieferung”, in Finke,
-H., _Gesammelte Aufsätze zur Kulturgeschichte Spaniens_, Reihe I, Bd. I,
-p. 102-141. Münster, 1928.
+----, "Der mozarabische Kirchengesang und seiner �berlieferung", in
+Finke, H., _Gesammelte Aufs�tze zur Kulturgeschichte Spaniens_, Reihe I,
+Bd. I, p. 102-141. M�nster, 1928.
 
 Ward, J. B., _Gregorian Chant II_. Belgium, 1949.
 
@@ -6099,12 +6132,12 @@ literature_. Washington, D. C., 1933.
 Wells, J. E., _Manual of the writings in middle English 1050-1400_. New
 Haven, 1916.
 
-Von Winterfeld, P., “Die Dichterschule St. Gallens und der Reichenau
-unter der Karolingern und Ottonen”, “Stilfragen der lateinischen
-Dichtung des Mittelalters”, _Deutsche Dichter_, p. 402-422, 423-444.
-München, 1922.
+Von Winterfeld, P., "Die Dichterschule St. Gallens und der Reichenau
+unter der Karolingern und Ottonen", "Stilfragen der lateinischen
+Dichtung des Mittelalters", _Deutsche Dichter_, p. 402-422, 423-444.
+M�nchen, 1922.
 
-Woerdeman, Dom J., “The source of the Easter play”, _Orate Fratres_, 20
+Woerdeman, Dom J., "The source of the Easter play", _Orate Fratres_, 20
 (1946), Apr. 25, p. 262-272.
 
 Young, K., _The drama of the medieval church_, 2 vols. Oxford, 1933.
@@ -6121,51 +6154,51 @@ Studies in History, Economics and Public Law (New York, 1930) 210 p.
 
   _Papers of the Hymn Society of America_, Editor, Carl F. Price, New
           York.
-    No. III, “The Praise of the Virgin in Early Latin Hymns,” 1932,
+    No. III, "The Praise of the Virgin in Early Latin Hymns," 1932,
           reprinted 1944, 10 p.
-    No. IX, “Christian Hymns of the First Three Centuries,” 1942,
+    No. IX, "Christian Hymns of the First Three Centuries," 1942,
           reprinted 1949, 25 p.
-    No. XIV, “Latin Hymns of the Middle Ages,” 1948, 14 p.
+    No. XIV, "Latin Hymns of the Middle Ages," 1948, 14 p.
 
   _Transactions and Proceedings of the American Philological
           Association_
-    “Hymns and Sequences of the Sarum Use,” vol. 59 (1928) 99-129.
-    Abstract: “Origin of the Sequence,” vol. 64 (1933) lxv-lxvi.
-    “The Descent Theme in Medieval Latin Hymns,” vol. 67 (1936) 126-57.
-    “Whence the Ninth Century Hymnal?,” vol. 69 (1938) 446-64.
-    “Recent Studies in Medieval Latin Hymns,” vol. 71 (1940) 248-261.
-    “The Mozarabic Hymnal,” vol. 75 (1944) 103-126.
-    “Salve Festa Dies,” vol. 78 (1947) 208-222.
-    “Medieval Processional Hymns before 1100,” vol. 80 (1949) 375-392.
-    “Processional Hymns of the Later Middle Ages,” vol. 81 (1950)
+    "Hymns and Sequences of the Sarum Use," vol. 59 (1928) 99-129.
+    Abstract: "Origin of the Sequence," vol. 64 (1933) lxv-lxvi.
+    "The Descent Theme in Medieval Latin Hymns," vol. 67 (1936) 126-57.
+    "Whence the Ninth Century Hymnal?," vol. 69 (1938) 446-64.
+    "Recent Studies in Medieval Latin Hymns," vol. 71 (1940) 248-261.
+    "The Mozarabic Hymnal," vol. 75 (1944) 103-126.
+    "Salve Festa Dies," vol. 78 (1947) 208-222.
+    "Medieval Processional Hymns before 1100," vol. 80 (1949) 375-392.
+    "Processional Hymns of the Later Middle Ages," vol. 81 (1950)
           185-199.
 
   _Miscellaneous articles_
     _Catholic Choirmaster_
-      “Notker Balbulus,” Sept. 1946, 101-5, 139.
-      “Sancta Maria quid est?,” June, 1950, 59-61, 81.
-      “Rabanus Maurus,” Summer, 1951, 55-57.
+      "Notker Balbulus," Sept. 1946, 101-5, 139.
+      "Sancta Maria quid est?," June, 1950, 59-61, 81.
+      "Rabanus Maurus," Summer, 1951, 55-57.
     _Classical Outlook_
-      “Medieval Easter Hymns,” April, 1944, 65-6.
-      “Adam of St. Victor,” Feb., 1947, 49-51.
-      “Greek Hymns of the Nativity,” Dec., 1948, 25-6.
-      “The Eighth Day,” May, 1950, 88-9.
+      "Medieval Easter Hymns," April, 1944, 65-6.
+      "Adam of St. Victor," Feb., 1947, 49-51.
+      "Greek Hymns of the Nativity," Dec., 1948, 25-6.
+      "The Eighth Day," May, 1950, 88-9.
     _Classical Weekly_
-      “The Legend of St. Agnes in Early Latin Hymns,” Nov. 29, 1943, 75.
-      “The Legend of St. Eulalia in Mozarabic Hymns,” Oct. 9, 1944,
+      "The Legend of St. Agnes in Early Latin Hymns," Nov. 29, 1943, 75.
+      "The Legend of St. Eulalia in Mozarabic Hymns," Oct. 9, 1944,
           12-3.
-      “Hymns in the Horae Eboracenses,” Jan. 15, 1945, 90-5.
+      "Hymns in the Horae Eboracenses," Jan. 15, 1945, 90-5.
     _Folia_
-      “Sources of the Sequence Scalam ad Caelos,” May, 1947, 55-63.
-      “Classical Influence in the Hymns of St. Ambrose,” vol. 4, nos.
+      "Sources of the Sequence Scalam ad Caelos," May, 1947, 55-63.
+      "Classical Influence in the Hymns of St. Ambrose," vol. 4, nos.
           1-3 (1949) 1-5.
-      “Aurelius Prudentius Clemens,” vol. 6, no. 2 (1952) 78-99.
+      "Aurelius Prudentius Clemens," vol. 6, no. 2 (1952) 78-99.
     _The Hymn_
-      “John Mason Neale, Translator,” Oct., 1951, 5-10.
+      "John Mason Neale, Translator," Oct., 1951, 5-10.
     _Speculum_
-      “Hymnista,” Jan., 1947, 83-4.
+      "Hymnista," Jan., 1947, 83-4.
     _Traditio_
-      “Mozarabic Hymns in Relation to Contemporary Culture in Spain,”
+      "Mozarabic Hymns in Relation to Contemporary Culture in Spain,"
           vol. 4 (1946) 149-77.
 
 
@@ -6374,7 +6407,7 @@ Studies in History, Economics and Public Law (New York, 1930) 210 p.
   Book of Hours, 53
   Braulio, B. of Saragossa, 13
   Breviary, Roman, 80, 81
-  “By the Cross her vigil keeping,” 51, 108
+  "By the Cross her vigil keeping," 51, 108
   Byzantine influences, 22, 23, 36, 40, 42
 
                                    C
@@ -6382,7 +6415,7 @@ Studies in History, Economics and Public Law (New York, 1930) 210 p.
   _Cambridge Songs_, 75
   Canonical Hours, 9
   _Cantico di fratre sole_, 78
-  _Cántigas de Santa María_, 78
+  _C�ntigas de Santa Mar�a_, 78
   _Carmina Burana_, 58, 75
   Carol, 79
   _Cathemerinon_, 3
@@ -6399,11 +6432,11 @@ Studies in History, Economics and Public Law (New York, 1930) 210 p.
   Council of Toledo, IV, (633), 13
   Council of Tours (567), 11
   Council of Girona (517), 63
-  “Creator-Spirit, all Divine,” 29, 93
+  "Creator-Spirit, all Divine," 29, 93
 
                                    D
   Damasus, Pope St., 2
-  “Draw nigh and take the body of the Lord,” 15, 89
+  "Draw nigh and take the body of the Lord," 15, 89
   Durandus, B. of Mende, 70
 
                                    E
@@ -6413,7 +6446,7 @@ Studies in History, Economics and Public Law (New York, 1930) 210 p.
   Eulogius, Archb. of Cordova, 30
 
                                    F
-  “Father we praise Thee,” 12, 87
+  "Father we praise Thee," 12, 87
   Fortunatus, Venantius, 4, 11, 27, 64
   Francis, St. of Assisi, 78
   Fulbert, B. of Chartres, 49
@@ -6426,8 +6459,8 @@ Studies in History, Economics and Public Law (New York, 1930) 210 p.
   Gregory the Gt., Pope St., 12, 14, 23, 27, 36, 63
 
                                    H
-  “Hail, Sea-Star we name Thee,” 16, 91
-  “Hail thee, festival day,” 73, 110
+  "Hail, Sea-Star we name Thee," 16, 91
+  "Hail thee, festival day," 73, 110
   Hartmann of St. Gall, 67
   Hilary B. of Poitiers, 1, 74
   _Horae_, 53, 58
@@ -6436,12 +6469,12 @@ Studies in History, Economics and Public Law (New York, 1930) 210 p.
 
                                    I
   Ildefonsus, Primate of Toledo, 13
-  “In flowing measures,” 26, 92
+  "In flowing measures," 26, 92
   Isidore of Seville, 1, 13, 30, 65
 
                                    J
   James, St., of Campostella, 56
-  _Jumièges Antiphonary_, 41
+  _Jumi�ges Antiphonary_, 41
   Jerome, St., 1
 
                                    L
@@ -6469,8 +6502,8 @@ Studies in History, Economics and Public Law (New York, 1930) 210 p.
   Notker Balbulus, 22, 39, 41, 42, 43, 45, 46, 47, 77
 
                                    O
-  “O glorious immensity,” 31, 94
-  “O Splendor of God’s glory,” 3, 84
+  "O glorious immensity," 31, 94
+  "O Splendor of God's glory," 3, 84
   _Old Hymnal_, 10, 12, 17, 30
   Osmund, B. of Salisbury, 52
   Otfried the Frank, 76
@@ -6486,7 +6519,7 @@ Studies in History, Economics and Public Law (New York, 1930) 210 p.
   _Phos hilaron_, 62
   Pilgrimage hymns, 56
   Pippin, 11, 19, 20, 22
-  “Praise, O Sion, praise thy Saviour,” 50, 105
+  "Praise, O Sion, praise thy Saviour," 50, 105
   _Processional_ (Book), 53, 70
   Processions (Litany), 63, 68
   Processions (Station), 63
@@ -6513,18 +6546,18 @@ Studies in History, Economics and Public Law (New York, 1930) 210 p.
   Sedulius, 13, 27, 29
   Sergius, Pope (687-701), 63-4
   Sequence, origin of, 35-40
-  “Sing alleluia forth,” 14, 88
+  "Sing alleluia forth," 14, 88
   Solesmes, 28
 
                                    T
-  “The grace of the Holy Ghost,” 42, 95
-  “The strain upraise,” 45, 98
-  “The banners of the king,” 5, 85
-  “The eternal gifts of Christ the King,” 8, 86
+  "The grace of the Holy Ghost," 42, 95
+  "The strain upraise," 45, 98
+  "The banners of the king," 5, 85
+  "The eternal gifts of Christ the King," 8, 86
   Theodulphus, B. of Orleans, 26, 28, 31, 67
   Thomas Aquinas, St., 50, 55, 71
   Thomas of Celano, 50
-  “To the fount of life eternal,” 49, 103
+  "To the fount of life eternal," 49, 103
   Trinity, 32, 44
   _Troparium_ or _tropary_, 44, 52
   _Trope_, 37
@@ -6532,24 +6565,24 @@ Studies in History, Economics and Public Law (New York, 1930) 210 p.
                                    V
   Vernacular religious lyrics, 77-9
   _Versus_, 66
-  Villon, François, 78
+  Villon, Fran�ois, 78
 
                                    W
   Walafrid Strabo, 26, 30, 67, 69
 
                                    Y
-  “Yesterday with exultation,” 47, 101
+  "Yesterday with exultation," 47, 101
 
 
 
 
-                          Transcriber’s Notes
+                          Transcriber's Notes
 
 
 --Generated an original cover image for free and unrestricted use with
   this eBook.
 
---Copyright notice provided as in the original—this e-text is public
+--Copyright notice provided as in the original--this e-text is public
   domain in the country of publication.
 
 --Silently corrected palpable typos; left non-standard spellings and
@@ -6566,4 +6599,365 @@ Studies in History, Economics and Public Law (New York, 1930) 210 p.
 
 End of Project Gutenberg's The Medieval Latin Hymn, by Ruth Ellis Messenger
 
-*** END OF THE PROJECT GUTENBERG EBOOK 54150 ***
+*** END OF THIS PROJECT GUTENBERG EBOOK THE MEDIEVAL LATIN HYMN ***
+
+***** This file should be named 54150-8.txt or 54150-8.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/5/4/1/5/54150/
+
+Produced by Stephen Hutcheson, Dave Morgan and the Online
+Distributed Proofreading Team at http://www.pgdp.net
+
+Updated editions will replace the previous one--the old editions will
+be renamed.
+
+Creating the works from print editions not protected by U.S. copyright
+law means that no one owns a United States copyright in these works,
+so the Foundation (and you!) can copy and distribute it in the United
+States without permission and without paying copyright
+royalties. Special rules, set forth in the General Terms of Use part
+of this license, apply to copying and distributing Project
+Gutenberg-tm electronic works to protect the PROJECT GUTENBERG-tm
+concept and trademark. Project Gutenberg is a registered trademark,
+and may not be used if you charge for the eBooks, unless you receive
+specific permission. If you do not charge anything for copies of this
+eBook, complying with the rules is very easy. You may use this eBook
+for nearly any purpose such as creation of derivative works, reports,
+performances and research. They may be modified and printed and given
+away--you may do practically ANYTHING in the United States with eBooks
+not protected by U.S. copyright law. Redistribution is subject to the
+trademark license, especially commercial redistribution.
+
+START: FULL LICENSE
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full
+Project Gutenberg-tm License available with this file or online at
+www.gutenberg.org/license.
+
+Section 1. General Terms of Use and Redistributing Project
+Gutenberg-tm electronic works
+
+1.A. By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement. If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or
+destroy all copies of Project Gutenberg-tm electronic works in your
+possession. If you paid a fee for obtaining a copy of or access to a
+Project Gutenberg-tm electronic work and you do not agree to be bound
+by the terms of this agreement, you may obtain a refund from the
+person or entity to whom you paid the fee as set forth in paragraph
+1.E.8.
+
+1.B. "Project Gutenberg" is a registered trademark. It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement. There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement. See
+paragraph 1.C below. There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this
+agreement and help preserve free future access to Project Gutenberg-tm
+electronic works. See paragraph 1.E below.
+
+1.C. The Project Gutenberg Literary Archive Foundation ("the
+Foundation" or PGLAF), owns a compilation copyright in the collection
+of Project Gutenberg-tm electronic works. Nearly all the individual
+works in the collection are in the public domain in the United
+States. If an individual work is unprotected by copyright law in the
+United States and you are located in the United States, we do not
+claim a right to prevent you from copying, distributing, performing,
+displaying or creating derivative works based on the work as long as
+all references to Project Gutenberg are removed. Of course, we hope
+that you will support the Project Gutenberg-tm mission of promoting
+free access to electronic works by freely sharing Project Gutenberg-tm
+works in compliance with the terms of this agreement for keeping the
+Project Gutenberg-tm name associated with the work. You can easily
+comply with the terms of this agreement by keeping this work in the
+same format with its attached full Project Gutenberg-tm License when
+you share it without charge with others.
+
+1.D. The copyright laws of the place where you are located also govern
+what you can do with this work. Copyright laws in most countries are
+in a constant state of change. If you are outside the United States,
+check the laws of your country in addition to the terms of this
+agreement before downloading, copying, displaying, performing,
+distributing or creating derivative works based on this work or any
+other Project Gutenberg-tm work. The Foundation makes no
+representations concerning the copyright status of any work in any
+country outside the United States.
+
+1.E. Unless you have removed all references to Project Gutenberg:
+
+1.E.1. The following sentence, with active links to, or other
+immediate access to, the full Project Gutenberg-tm License must appear
+prominently whenever any copy of a Project Gutenberg-tm work (any work
+on which the phrase "Project Gutenberg" appears, or with which the
+phrase "Project Gutenberg" is associated) is accessed, displayed,
+performed, viewed, copied or distributed:
+
+  This eBook is for the use of anyone anywhere in the United States and
+  most other parts of the world at no cost and with almost no
+  restrictions whatsoever. You may copy it, give it away or re-use it
+  under the terms of the Project Gutenberg License included with this
+  eBook or online at www.gutenberg.org. If you are not located in the
+  United States, you'll have to check the laws of the country where you
+  are located before using this ebook.
+
+1.E.2. If an individual Project Gutenberg-tm electronic work is
+derived from texts not protected by U.S. copyright law (does not
+contain a notice indicating that it is posted with permission of the
+copyright holder), the work can be copied and distributed to anyone in
+the United States without paying any fees or charges. If you are
+redistributing or providing access to a work with the phrase "Project
+Gutenberg" associated with or appearing on the work, you must comply
+either with the requirements of paragraphs 1.E.1 through 1.E.7 or
+obtain permission for the use of the work and the Project Gutenberg-tm
+trademark as set forth in paragraphs 1.E.8 or 1.E.9.
+
+1.E.3. If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any
+additional terms imposed by the copyright holder. Additional terms
+will be linked to the Project Gutenberg-tm License for all works
+posted with the permission of the copyright holder found at the
+beginning of this work.
+
+1.E.4. Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5. Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6. You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including
+any word processing or hypertext form. However, if you provide access
+to or distribute copies of a Project Gutenberg-tm work in a format
+other than "Plain Vanilla ASCII" or other format used in the official
+version posted on the official Project Gutenberg-tm web site
+(www.gutenberg.org), you must, at no additional cost, fee or expense
+to the user, provide a copy, a means of exporting a copy, or a means
+of obtaining a copy upon request, of the work in its original "Plain
+Vanilla ASCII" or other form. Any alternate format must include the
+full Project Gutenberg-tm License as specified in paragraph 1.E.1.
+
+1.E.7. Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8. You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works
+provided that
+
+* You pay a royalty fee of 20% of the gross profits you derive from
+  the use of Project Gutenberg-tm works calculated using the method
+  you already use to calculate your applicable taxes. The fee is owed
+  to the owner of the Project Gutenberg-tm trademark, but he has
+  agreed to donate royalties under this paragraph to the Project
+  Gutenberg Literary Archive Foundation. Royalty payments must be paid
+  within 60 days following each date on which you prepare (or are
+  legally required to prepare) your periodic tax returns. Royalty
+  payments should be clearly marked as such and sent to the Project
+  Gutenberg Literary Archive Foundation at the address specified in
+  Section 4, "Information about donations to the Project Gutenberg
+  Literary Archive Foundation."
+
+* You provide a full refund of any money paid by a user who notifies
+  you in writing (or by e-mail) within 30 days of receipt that s/he
+  does not agree to the terms of the full Project Gutenberg-tm
+  License. You must require such a user to return or destroy all
+  copies of the works possessed in a physical medium and discontinue
+  all use of and all access to other copies of Project Gutenberg-tm
+  works.
+
+* You provide, in accordance with paragraph 1.F.3, a full refund of
+  any money paid for a work or a replacement copy, if a defect in the
+  electronic work is discovered and reported to you within 90 days of
+  receipt of the work.
+
+* You comply with all other terms of this agreement for free
+  distribution of Project Gutenberg-tm works.
+
+1.E.9. If you wish to charge a fee or distribute a Project
+Gutenberg-tm electronic work or group of works on different terms than
+are set forth in this agreement, you must obtain permission in writing
+from both the Project Gutenberg Literary Archive Foundation and The
+Project Gutenberg Trademark LLC, the owner of the Project Gutenberg-tm
+trademark. Contact the Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1. Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+works not protected by U.S. copyright law in creating the Project
+Gutenberg-tm collection. Despite these efforts, Project Gutenberg-tm
+electronic works, and the medium on which they may be stored, may
+contain "Defects," such as, but not limited to, incomplete, inaccurate
+or corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged disk or
+other medium, a computer virus, or computer codes that damage or
+cannot be read by your equipment.
+
+1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from. If you
+received the work on a physical medium, you must return the medium
+with your written explanation. The person or entity that provided you
+with the defective work may elect to provide a replacement copy in
+lieu of a refund. If you received the work electronically, the person
+or entity providing it to you may choose to give you a second
+opportunity to receive the work electronically in lieu of a refund. If
+the second copy is also defective, you may demand a refund in writing
+without further opportunities to fix the problem.
+
+1.F.4. Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO
+OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5. Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of
+damages. If any disclaimer or limitation set forth in this agreement
+violates the law of the state applicable to this agreement, the
+agreement shall be interpreted to make the maximum disclaimer or
+limitation permitted by the applicable state law. The invalidity or
+unenforceability of any provision of this agreement shall not void the
+remaining provisions.
+
+1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in
+accordance with this agreement, and any volunteers associated with the
+production, promotion and distribution of Project Gutenberg-tm
+electronic works, harmless from all liability, costs and expenses,
+including legal fees, that arise directly or indirectly from any of
+the following which you do or cause to occur: (a) distribution of this
+or any Project Gutenberg-tm work, (b) alteration, modification, or
+additions or deletions to any Project Gutenberg-tm work, and (c) any
+Defect you cause.
+
+Section 2. Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of
+computers including obsolete, old, middle-aged and new computers. It
+exists because of the efforts of hundreds of volunteers and donations
+from people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come. In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future
+generations. To learn more about the Project Gutenberg Literary
+Archive Foundation and how your efforts and donations can help, see
+Sections 3 and 4 and the Foundation information page at
+www.gutenberg.org
+
+
+
+Section 3. Information about the Project Gutenberg Literary Archive Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service. The Foundation's EIN or federal tax identification
+number is 64-6221541. Contributions to the Project Gutenberg Literary
+Archive Foundation are tax deductible to the full extent permitted by
+U.S. federal laws and your state's laws.
+
+The Foundation's principal office is in Fairbanks, Alaska, with the
+mailing address: PO Box 750175, Fairbanks, AK 99775, but its
+volunteers and employees are scattered throughout numerous
+locations. Its business office is located at 809 North 1500 West, Salt
+Lake City, UT 84116, (801) 596-1887. Email contact links and up to
+date contact information can be found at the Foundation's web site and
+official page at www.gutenberg.org/contact
+
+For additional contact information:
+
+    Dr. Gregory B. Newby
+    Chief Executive and Director
+    gbnewby@pglaf.org
+
+Section 4. Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment. Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States. Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements. We do not solicit donations in locations
+where we have not received written confirmation of compliance. To SEND
+DONATIONS or determine the status of compliance for any particular
+state visit www.gutenberg.org/donate
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States. U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses. Donations are accepted in a number of other
+ways including checks, online payments and credit card donations. To
+donate, please visit: www.gutenberg.org/donate
+
+Section 5. General Information About Project Gutenberg-tm electronic works.
+
+Professor Michael S. Hart was the originator of the Project
+Gutenberg-tm concept of a library of electronic works that could be
+freely shared with anyone. For forty years, he produced and
+distributed Project Gutenberg-tm eBooks with only a loose network of
+volunteer support.
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as not protected by copyright in
+the U.S. unless a copyright notice is included. Thus, we do not
+necessarily keep eBooks in compliance with any particular paper
+edition.
+
+Most people start at our Web site which has the main PG search
+facility: www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
+
